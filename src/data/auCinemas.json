@@ -1,0 +1,3183 @@
+[
+  {
+    "name": "12d Extreme Cinema",
+    "lat": -33.6520892,
+    "lng": 115.3463871,
+    "address": "38-44  Albert Street\nBusselton, WA 6280"
+  },
+  {
+    "name": "1812 Theatre",
+    "lat": -37.8941003,
+    "lng": 145.3107163,
+    "phoneNumber": "+61-03-9758-3964",
+    "address": "1-3 Rose Street\nMelbourne, VIC 3156"
+  },
+  {
+    "name": "ACMI",
+    "lat": -37.8185815,
+    "lng": 144.9637799,
+    "phoneNumber": "+61-3-8663-2200",
+    "address": "Flinders Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Ace Cinemas Rockingham",
+    "lat": -32.288672,
+    "lng": 115.7483092,
+    "phoneNumber": "+61-8-9550-9000",
+    "address": "1 Syren Street\nRockingham, WA 6168"
+  },
+  {
+    "name": "Ace Midland Gate Cinema",
+    "lat": -31.8916168,
+    "lng": 116.0119137,
+    "phoneNumber": "+61(0)8-9250-2620",
+    "address": "Great Eastern Highway\nMidland, WA 6056"
+  },
+  {
+    "name": "Adelaide Town Hall",
+    "lat": -34.926124,
+    "lng": 138.600333,
+    "address": "128 King William Street\nAdelaide, SA 5000\nAustralia"
+  },
+  {
+    "name": "Albany Entertainment Centre",
+    "lat": -35.0292594,
+    "lng": 117.8859423,
+    "address": "2 Toll Place\nAlbany, WA 6330"
+  },
+  {
+    "name": "Alice Springs Cinema",
+    "lat": -23.69755,
+    "lng": 133.88389,
+    "phoneNumber": "+61-08-8952-4999",
+    "address": "11 Todd Street\nAlice Springs, NT 0870"
+  },
+  {
+    "name": "Alpha Hall",
+    "lat": -37.3429365,
+    "lng": 144.1425327,
+    "address": "67 Vincent Street\nDaylesford, VIC 3460"
+  },
+  {
+    "name": "Amusu Theatre",
+    "lat": -33.184961,
+    "lng": 148.693781,
+    "phoneNumber": "+61-418-452-902",
+    "address": "17 Derowie Street\nManildra, NSW 2865"
+  },
+  {
+    "name": "Anita's Theatre",
+    "lat": -34.314439,
+    "lng": 150.922823,
+    "phoneNumber": "+61-02-4268-2151",
+    "address": "264-270 Lawrence Hargrave Drive\nThirroul, NSW 2515"
+  },
+  {
+    "name": "Arc Cinema",
+    "lat": -35.2839498,
+    "lng": 149.1210751,
+    "address": "McCoy Circuit\nActon, ACT 2601"
+  },
+  {
+    "name": "Arcadia Twin Cinemas",
+    "lat": -35.358962,
+    "lng": 150.4726876,
+    "phoneNumber": "+61.2.4454.1224",
+    "address": "Boree Street\nUlladulla, NSW 2539"
+  },
+  {
+    "name": "Arts House at North Melbourne Town Hall",
+    "lat": -37.8047217,
+    "lng": 144.9639298,
+    "address": "145 Queensbury Street\nMelbourne, VIC 3053"
+  },
+  {
+    "name": "Astor Cinema",
+    "lat": -37.28438,
+    "lng": 142.934414,
+    "phoneNumber": "+61-03-5352-2616",
+    "address": "250 Barkly Street\nArarat, VIC 3377"
+  },
+  {
+    "name": "Astor Theatre",
+    "lat": -31.9342037,
+    "lng": 115.8722656,
+    "phoneNumber": "+61-9370-17777",
+    "address": "659 Beaufort Street\nMount Lawley, WA 6050"
+  },
+  {
+    "name": "Astor Theatre",
+    "lat": -37.8579336,
+    "lng": 144.9921218,
+    "phoneNumber": "+61-(0)3-9510-1414",
+    "address": "1 Chapel Street\nMelbourne, VIC 3182"
+  },
+  {
+    "name": "Athenaeum Theatre",
+    "lat": -37.814832,
+    "lng": 144.967261,
+    "phoneNumber": "+61-03-9650-1500",
+    "address": "188 Collins Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Augusta Community Centre",
+    "lat": -34.3191471,
+    "lng": 115.1585535,
+    "address": "66 Allnut Terrace\nAugusta, WA 6290"
+  },
+  {
+    "name": "Australian Centre for the Moving Image",
+    "lat": -37.7968394,
+    "lng": 144.9970125,
+    "phoneNumber": "+61-03-8663-2583",
+    "address": "Federation Square\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Australian Poetry Hall of Fame",
+    "lat": -30.2199559,
+    "lng": 151.6711757,
+    "phoneNumber": "+61-2-6779-1828",
+    "address": "144 Bradley Street\nGuyra, NSW 2365"
+  },
+  {
+    "name": "Avoca Beach Picture Theatre",
+    "lat": -33.471461,
+    "lng": 151.436471,
+    "phoneNumber": "+61-(0)2-4381-1488",
+    "address": "69 Avoca Drive\nAvoca Beach, NSW 2251"
+  },
+  {
+    "name": "BCC Casuarina Cinemas",
+    "lat": -12.3749302,
+    "lng": 130.8815219,
+    "phoneNumber": "+61(0)8-8945-7777",
+    "address": "247 Trower Road\nCasuarina, NT 0810"
+  },
+  {
+    "name": "BCC Cinema Townsville Central",
+    "lat": -19.2671078,
+    "lng": 146.8114545,
+    "phoneNumber": "+61(0)7-4431-1500",
+    "address": "10 Little Fletcher Street\nTownsville, QLD 4810"
+  },
+  {
+    "name": "BCC Cinemas Lismore",
+    "lat": -28.8059719,
+    "lng": 153.2805903,
+    "phoneNumber": "+61(0)2-6622-4350",
+    "address": "Keen Street and Zadoc Street\nLismore, NSW 2480"
+  },
+  {
+    "name": "BCC Cinemas Mackay City",
+    "lat": -21.1434075,
+    "lng": 149.1859467,
+    "phoneNumber": "+61(0)7-4957-3515",
+    "address": "40 Gordon Street\nMackay, QLD 4740"
+  },
+  {
+    "name": "BCC Cinemas Mackay Mount Pleasant",
+    "lat": -21.1218815,
+    "lng": 149.1579971,
+    "phoneNumber": "+61(0)7-4942-4066",
+    "address": "13/29 Grandview Drive\nNorth Mackay, QLD 4740"
+  },
+  {
+    "name": "BCC Cinemas North Rockhampton",
+    "lat": -23.3789077,
+    "lng": 150.5043126,
+    "phoneNumber": "+61(0)7-4926-6977",
+    "address": "Bruce Highway\nNorth Rockhampton, QLD 4700"
+  },
+  {
+    "name": "BCC Cinemas Strathpine",
+    "lat": -27.3071335,
+    "lng": 152.9908992,
+    "phoneNumber": "+61(0)7-3881-2037",
+    "address": "295 Gympie Road\nStrathpine, QLD 4500"
+  },
+  {
+    "name": "BCC Cinemas Toombul",
+    "lat": -27.4090153,
+    "lng": 153.0613381,
+    "phoneNumber": "+61(0)7-3260-6444",
+    "address": "1015 Sandgate Road\nToombul, QLD 4012"
+  },
+  {
+    "name": "BCC Cinemas Toowoomba Grand Central",
+    "lat": -27.5606842,
+    "lng": 151.9504047,
+    "phoneNumber": "+61(0)7-4638-0879",
+    "address": "Dent Street and Margaret Street\nToowoomba, QLD 4350"
+  },
+  {
+    "name": "BCC Coffs Harbour",
+    "lat": -30.2824568,
+    "lng": 153.1264531,
+    "phoneNumber": "+61(0)2-6651-5568",
+    "address": "6 Bray Street\nCoffs Harbour, NSW 2450"
+  },
+  {
+    "name": "BCC Earlville",
+    "lat": -16.944205,
+    "lng": 145.7398412,
+    "phoneNumber": "+61(0)7-4057-0000",
+    "address": "537 Mulgrave Road\nEarlville, QLD 4870"
+  },
+  {
+    "name": "BCC Noosa Cinemas",
+    "lat": -26.3973361,
+    "lng": 153.0908315,
+    "phoneNumber": "+61(0)7-5447-5130",
+    "address": "29 Sunshine Beach Road\nNoosa Heads, QLD 4567"
+  },
+  {
+    "name": "BCC Strand Theatre",
+    "lat": -27.5610329,
+    "lng": 151.9558646,
+    "phoneNumber": "+61(0)7-4639-3861",
+    "address": "163 Margaret Street\nToowoomba, QLD 4350"
+  },
+  {
+    "name": "Babinda Munro Picture Theatre",
+    "lat": -17.3441738,
+    "lng": 145.9228053,
+    "phoneNumber": "+61-0-740671438",
+    "address": "97 Munro Street\nBabinda, QLD 4861"
+  },
+  {
+    "name": "Backlot Cinema",
+    "lat": -31.940945,
+    "lng": 115.8456837,
+    "address": "21 Simpson Street\nWest Perth, WA 6005"
+  },
+  {
+    "name": "Bakers Hill Oval",
+    "lat": -31.7487561,
+    "lng": 116.460133,
+    "address": "St George Street\nBaker's Hill, WA 6562"
+  },
+  {
+    "name": "Balmoral Cineplex",
+    "lat": -27.4513466,
+    "lng": 153.0594558,
+    "phoneNumber": "+61-07-3395-6086",
+    "address": "162 Oxford Street\nBrisbane, QLD 4171"
+  },
+  {
+    "name": "Balwyn Cinema",
+    "lat": -37.811855,
+    "lng": 145.075578,
+    "phoneNumber": "+61-(0)3-9817-1277",
+    "address": "231 Whitehorse Road\nMelbourne, VIC 3103"
+  },
+  {
+    "name": "Bamboo Outdoor Cinema",
+    "lat": -31.9409539,
+    "lng": 115.8681591,
+    "address": "446 Beaufort Street\nHighgate, WA 6003"
+  },
+  {
+    "name": "Ben & Jerry's  Openair Cinema Gold Coast",
+    "lat": -28.0267631,
+    "lng": 153.4335535,
+    "address": "Old Burleigh Road\nBroadbeach, QLD 4218"
+  },
+  {
+    "name": "Ben & Jerry's Openair Cinema Adelaide",
+    "lat": -34.9839567,
+    "lng": 138.5107865,
+    "address": "South Esplanade\nAdelaide, SA 5045"
+  },
+  {
+    "name": "Ben & Jerry's Openair Cinema Bondi Beach",
+    "lat": -33.8907763,
+    "lng": 151.2765077,
+    "phoneNumber": "+61-02-9130-1235",
+    "address": "Queen Elizabeth Drive\nSydney, NSW 2026"
+  },
+  {
+    "name": "Ben & Jerry's Openair Cinema Brisbane",
+    "lat": -27.3937868,
+    "lng": 152.9824691,
+    "address": "Russell Street\nBrisbane, QLD 4000"
+  },
+  {
+    "name": "Ben & Jerry's Openair Cinema Inner West",
+    "lat": -33.8893483,
+    "lng": 151.1918424,
+    "address": "Maze Crescent\nSydney, NSW 2008"
+  },
+  {
+    "name": "Ben & Jerry's Openair Cinema St. Kilda",
+    "lat": -37.8657357,
+    "lng": 144.9735889,
+    "address": "Jacka Boulevard\nMelbourne, VIC 3182"
+  },
+  {
+    "name": "Ben and Jerry's  Openair Cinema",
+    "lat": -35.2983269,
+    "lng": 149.1300121,
+    "address": "Parkes Place\nCanberra, ACT 2600"
+  },
+  {
+    "name": "Bendigo Cinemas",
+    "lat": -36.7639591,
+    "lng": 144.2770087,
+    "phoneNumber": "+61-03-5442-1666",
+    "address": "107 Queen Street\nBendigo, VIC 3550"
+  },
+  {
+    "name": "Bernard Park",
+    "lat": -31.6530941,
+    "lng": 116.6709361,
+    "address": "Minson  Avenue\nNortham, WA 6401"
+  },
+  {
+    "name": "Big Lobster Theatrette",
+    "lat": -36.8245279,
+    "lng": 139.862953,
+    "address": "4 Princes Highway\nKingston S.E., SA 5275"
+  },
+  {
+    "name": "Bigscreen Cinemas Caloundra",
+    "lat": -26.8049273,
+    "lng": 153.1350814,
+    "phoneNumber": "+61(0)7-5436-6600",
+    "address": "11 Bulcock Street\nCaloundra, QLD 4551"
+  },
+  {
+    "name": "Bigscreen Hervey Bay Cinema",
+    "lat": -25.286609,
+    "lng": 152.8323559,
+    "phoneNumber": "+61(0)7-4124-8200",
+    "address": "128 Boat Harbour Drive\nHervey Bay, QLD 4655"
+  },
+  {
+    "name": "Bijou Theatre",
+    "lat": -33.864776,
+    "lng": 121.8901941,
+    "address": "Dempster Street and William Street\nEsperance, WA 6450"
+  },
+  {
+    "name": "Bribie Twin Theatre",
+    "lat": -27.0780032,
+    "lng": 153.18139,
+    "address": "225 First Avenue\nBribie Island, QLD 4507"
+  },
+  {
+    "name": "Brunswick Picture House",
+    "lat": -28.5405127,
+    "lng": 153.5488638,
+    "address": "30 Fingle Street\nBrunswick Heads, NSW 2483"
+  },
+  {
+    "name": "Bunbury Regional Entertainment Centre",
+    "lat": -33.3210749,
+    "lng": 115.6354322,
+    "address": "2 Blair Street and Clifton Street\nBunbury, WA 6230"
+  },
+  {
+    "name": "Burdekin Delta Cinemas",
+    "lat": -19.5754527,
+    "lng": 147.4051466,
+    "phoneNumber": "+61(0)7-4783-5259",
+    "address": "145-149 Queen Street\nAyr, QLD 4807"
+  },
+  {
+    "name": "CMax Cinemas Devonport",
+    "lat": -41.1788653,
+    "lng": 146.3624603,
+    "phoneNumber": "+61-6420-2111",
+    "address": "5-7 Best Street\nDevonport, TAS 7310"
+  },
+  {
+    "name": "CMax Cinemas Palmerston",
+    "lat": -12.4803582,
+    "lng": 130.9882723,
+    "address": "3 Maluka Street\nPalmerston, NT 0830"
+  },
+  {
+    "name": "Camel Lane Theatre",
+    "lat": -24.883662,
+    "lng": 113.6567981,
+    "address": "Robinson Street and Camel Lane\nCarnarvon, WA 6701"
+  },
+  {
+    "name": "Camelot Outdoor Cinema & Memorial Hall",
+    "lat": -32.0091914,
+    "lng": 115.765127,
+    "phoneNumber": "+61-8-9385-3827",
+    "address": "12-16 Lochee Street\nMosman Park\nPerth, WA 6012"
+  },
+  {
+    "name": "Cameo Cinema",
+    "lat": -35.117535,
+    "lng": 139.27186,
+    "phoneNumber": "+61-08-531-0222",
+    "address": "2 First Street\nMurray Bridge, SA 5253"
+  },
+  {
+    "name": "Cameo Cinemas",
+    "lat": -37.9095142,
+    "lng": 145.352017,
+    "phoneNumber": "+61-03.9754.7844",
+    "address": "1628 Burwood Highway\nMelbourne, VIC 3160"
+  },
+  {
+    "name": "Capital Theatre",
+    "lat": -36.75722,
+    "lng": 144.276361,
+    "phoneNumber": "+61-03-5434-6100",
+    "address": "50 View Street\nBendigo, VIC 3550"
+  },
+  {
+    "name": "Capitol Cinema Centre 3",
+    "lat": -38.3830958,
+    "lng": 142.481248,
+    "phoneNumber": "+61.03.5563.2000",
+    "address": "54 Kepler Street\nWarrnambool, VIC 3280"
+  },
+  {
+    "name": "Capitol Theatre",
+    "lat": -33.879765,
+    "lng": 151.206132,
+    "phoneNumber": "+61-02-9320-5000",
+    "address": "13 Campbell Street\nSydney, NSW 2000"
+  },
+  {
+    "name": "Capitol Theatre",
+    "lat": -37.815032,
+    "lng": 144.966022,
+    "phoneNumber": "+61(0)3-9650-4017",
+    "address": "113 Swanston Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Capri Goodwood",
+    "lat": -34.952897,
+    "lng": 138.590121,
+    "phoneNumber": "+61-08-8272-1177",
+    "address": "141 Goodwood Road\nAdelaide, SA 5034"
+  },
+  {
+    "name": "Carousel Megaplex",
+    "lat": -32.0181469,
+    "lng": 115.934851,
+    "address": "Albany Highway\nCannington, WA 6107"
+  },
+  {
+    "name": "Caves House Outdoor Cinema",
+    "lat": -33.6458625,
+    "lng": 115.0320099,
+    "address": "18 Yallingup Beach Road\nYallingup, WA 6282"
+  },
+  {
+    "name": "Centenary Hall",
+    "lat": -35.5019649,
+    "lng": 138.7833618,
+    "address": "12 Cadell Street\nGoolwa, SA 5214"
+  },
+  {
+    "name": "Centre Cinemas",
+    "lat": -36.7155384,
+    "lng": 142.2018612,
+    "phoneNumber": "+61-03-5382-1249",
+    "address": "41 Pynsent Street\nHorsham, VIC 3400"
+  },
+  {
+    "name": "Chauvel Cinema",
+    "lat": -33.885016,
+    "lng": 151.225906,
+    "phoneNumber": "+61.02-9361-5398",
+    "address": "249 Oxford Street\nSydney, NSW 2021"
+  },
+  {
+    "name": "Cinema Augusta",
+    "lat": -32.4942392,
+    "lng": 137.7719306,
+    "address": "9 Carlton Parade\nPort Augusta, SA 5700"
+  },
+  {
+    "name": "Cinema Centre",
+    "lat": -36.3549737,
+    "lng": 146.3230313,
+    "phoneNumber": "+61-03-5721-5555",
+    "address": "Ovens Street\nWangaratta, VIC 3677"
+  },
+  {
+    "name": "Cinema Como",
+    "lat": -37.8395058,
+    "lng": 144.9956214,
+    "phoneNumber": "+61-03.9827.7533",
+    "address": "Toorak Road & Chapel Street\nMelbourne, VIC 3141"
+  },
+  {
+    "name": "Cinema Mount Isa",
+    "lat": -20.7264328,
+    "lng": 139.4937959,
+    "phoneNumber": "+61(0)4-743-2043",
+    "address": "22 Rodeo Drive\nMount Isa, QLD 4825"
+  },
+  {
+    "name": "Cinema Nova",
+    "lat": -37.7988354,
+    "lng": 144.9670669,
+    "phoneNumber": "+61-03.9347.5331",
+    "address": "380 Lygon Street\nMelbourne, VIC 3053"
+  },
+  {
+    "name": "Cinema One",
+    "lat": -41.0501007,
+    "lng": 145.9052402,
+    "address": "69 Mount Street\nBurnie, TAS 7302"
+  },
+  {
+    "name": "Cinema Paradiso",
+    "lat": -33.5144712,
+    "lng": 151.3408254,
+    "phoneNumber": "+61-(0)2-4343-1977",
+    "address": "189 Ocean View Road\nEttalong Beach, NSW 2257"
+  },
+  {
+    "name": "Cinema Paris",
+    "lat": -33.8887988,
+    "lng": 151.2285938,
+    "phoneNumber": "+61-02-9332-1633",
+    "address": "Bent Street\nSydney, NSW 2021"
+  },
+  {
+    "name": "Civic Theatre",
+    "lat": -34.4255451,
+    "lng": 150.8974281,
+    "address": "Kembla Street\nWollongong, NSW 2500"
+  },
+  {
+    "name": "Civic Theatre",
+    "lat": -32.9270115,
+    "lng": 151.7721079,
+    "phoneNumber": "+61-02-4929-1977",
+    "address": "375 Hunter Street\nNewcastle, NSW 2300"
+  },
+  {
+    "name": "Civic Theatre",
+    "lat": -37.7554547,
+    "lng": 145.3538373,
+    "address": "35 Castella Street\nMelbourne, VIC 3140"
+  },
+  {
+    "name": "Classic Cinema",
+    "lat": -37.8839224,
+    "lng": 145.0005423,
+    "phoneNumber": "+61-(0)3-9524-7900",
+    "address": "9 Gordon Street\nMelbourne, VIC 3185"
+  },
+  {
+    "name": "Club X Cinema",
+    "lat": -33.8807123,
+    "lng": 151.2047342,
+    "phoneNumber": "+61-02-911-4398",
+    "address": "711 George Street\nSydney, NSW 2000"
+  },
+  {
+    "name": "Club X Ram Lounge Cinema",
+    "lat": -37.812717,
+    "lng": 144.965577,
+    "phoneNumber": "+61-03-9663-8094",
+    "address": "216 Swanston Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Colac Cinemas",
+    "lat": -38.3384097,
+    "lng": 143.5869816,
+    "phoneNumber": "+61-03-5232-2077",
+    "address": "Rae Street and Gellibrand Street\nColac, VIC 3250"
+  },
+  {
+    "name": "Collaroy Cinema",
+    "lat": -33.732938,
+    "lng": 151.3015642,
+    "phoneNumber": "+61-02-9971-8668",
+    "address": "1097 Pittwater Road\nSydney, NSW 2097"
+  },
+  {
+    "name": "Comedy Theatre",
+    "lat": -37.810264,
+    "lng": 144.970159,
+    "phoneNumber": "+61-(0)3-9299-4950",
+    "address": "240 Exhibition Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Community Cinemas Bassendean",
+    "lat": -31.9028687,
+    "lng": 115.9489307,
+    "address": "Guildford Road and Wilson Street\nBassendean, WA 6054"
+  },
+  {
+    "name": "Community Cinemas Burswood",
+    "lat": -31.9621951,
+    "lng": 115.8947772,
+    "address": "Resort Drive\nBurswood, WA 6100"
+  },
+  {
+    "name": "Community Cinemas ECU Joondalup",
+    "lat": -31.7391081,
+    "lng": 115.7637409,
+    "address": "270 Joondalup Drive\nJoondalup, WA 6027"
+  },
+  {
+    "name": "Community Cinemas Murdoch",
+    "lat": -32.0644325,
+    "lng": 115.8383744,
+    "address": "South Street\nMurdoch, WA 6150"
+  },
+  {
+    "name": "Cooma Twin Cinema",
+    "lat": -36.2361235,
+    "lng": 149.1273233,
+    "phoneNumber": "+61-6457-1777",
+    "address": "76 Commissioner Street\nCooma, NSW 2630"
+  },
+  {
+    "name": "Corner Drive-In",
+    "lat": -29.4342808,
+    "lng": 142.0100708,
+    "address": "Silver City Highway and Bourke-Hawker Gate S\nTibooburra, NSW 2880"
+  },
+  {
+    "name": "Country Club Tasmania Drive-In Cinema",
+    "lat": -41.4824152,
+    "lng": 147.1177063,
+    "address": "Country Club Avenue\nLaunceston, TAS 7250"
+  },
+  {
+    "name": "Courtyard Cinema",
+    "lat": -33.6472,
+    "lng": 115.34338,
+    "address": "4 Queen Street\nBusselton, WA 6280"
+  },
+  {
+    "name": "Cowaramup Brewing Company Movies",
+    "lat": -33.8354972,
+    "lng": 115.1358335,
+    "address": "229 Treeton Road North\nCowaramup, WA 6284"
+  },
+  {
+    "name": "Crystal Theatre",
+    "lat": -33.3538322,
+    "lng": 149.9811237,
+    "address": "4 Wolgan Street\nPortland, NSW 2847"
+  },
+  {
+    "name": "Cuballing Agricultral Hall",
+    "lat": -32.8190101,
+    "lng": 117.1778047,
+    "phoneNumber": "+61-8-9883-6031",
+    "address": "191 Campbell Street\nCuballing, WA 6311"
+  },
+  {
+    "name": "Cuballing Recreation Centre",
+    "lat": -32.9192281,
+    "lng": 117.0309778,
+    "address": "Clayton Road\nCuballing, WA 6311"
+  },
+  {
+    "name": "Cummins Theatre",
+    "lat": -31.480088,
+    "lng": 118.279412,
+    "address": "31 Bates Street\nMerredin, WA 6415"
+  },
+  {
+    "name": "Cygnet Cinema",
+    "lat": -31.9937463,
+    "lng": 115.8564127,
+    "phoneNumber": "+61-(08).9367-1663",
+    "address": "14 Preston Street\nComo\nPerth, WA 6152"
+  },
+  {
+    "name": "Deckchair Cinema",
+    "lat": -38.330474,
+    "lng": 144.996107,
+    "address": "133 Nepean Highway\nDromana, VIC 3936"
+  },
+  {
+    "name": "Deckchair Cinema",
+    "lat": -12.4685474,
+    "lng": 130.8432753,
+    "phoneNumber": "+61-08-8981-0700",
+    "address": "Jervois Road\nDarwin, NT 0800"
+  },
+  {
+    "name": "Dendy Canberra Centre",
+    "lat": -35.2787668,
+    "lng": 149.1328929,
+    "phoneNumber": "+61-2-6221-8900",
+    "address": "128 Bunda Street\nCanberra, ACT 2600"
+  },
+  {
+    "name": "Dendy Cinemas Coorparoo",
+    "lat": -27.4945563,
+    "lng": 153.0586224,
+    "phoneNumber": "+61-7-3493-3333",
+    "address": "300 Old Cleveland Road\nCoorparoo, QLD 4151"
+  },
+  {
+    "name": "Dendy Cinemas Southport",
+    "lat": -27.9716142,
+    "lng": 153.4075448,
+    "phoneNumber": "+61-7-3180-6430",
+    "address": "129 Queen Street\nSouthport, QLD 4215"
+  },
+  {
+    "name": "Dendy Newtown",
+    "lat": -33.8961801,
+    "lng": 151.1803696,
+    "phoneNumber": "+61-2-9550-5699",
+    "address": "261 King Street\nSydney, NSW 2042"
+  },
+  {
+    "name": "Dendy Portside",
+    "lat": -27.4407878,
+    "lng": 153.0697867,
+    "phoneNumber": "+61-7-3137-6000",
+    "address": "39 Hercules Street\nHamilton, QLD 4007"
+  },
+  {
+    "name": "Dongara Drive-In",
+    "lat": -29.2659753,
+    "lng": 114.925253,
+    "address": "Port Leander Drive and Ridley Street\nPort Denison, WA 6525"
+  },
+  {
+    "name": "Dromana 3  Drive-In",
+    "lat": -38.329652,
+    "lng": 144.996243,
+    "phoneNumber": "+61(0)3-5987-2492",
+    "address": "133 Nepean Highway\nDromana, VIC 3936"
+  },
+  {
+    "name": "Dumaresq Street Cinema ",
+    "lat": -34.0667663,
+    "lng": 150.8122862,
+    "phoneNumber": "+61(0)2-4625-1985",
+    "address": "4 Dumaresq Street\nCampbelltown, NSW 2560"
+  },
+  {
+    "name": "Dungog Theatre",
+    "lat": -32.4021234,
+    "lng": 151.7585105,
+    "address": "6 Brown Street\nDungog, NSW 2420"
+  },
+  {
+    "name": "Empire Cinemas",
+    "lat": -34.4798586,
+    "lng": 150.4176322,
+    "phoneNumber": "+61-(0)2-4861-4676",
+    "address": "327 Bong Bong Street\nBowral, NSW 2571"
+  },
+  {
+    "name": "Empire Theatre",
+    "lat": -27.5629749,
+    "lng": 151.9552776,
+    "phoneNumber": "+61-7-4698-9900",
+    "address": "56 Neil Street\nToowoomba, QLD 4350"
+  },
+  {
+    "name": "Enmore Theatre",
+    "lat": -33.898808,
+    "lng": 151.1740225,
+    "phoneNumber": "+61-02-9550-3666",
+    "address": "130 Enmore Road\nSydney, NSW 2042"
+  },
+  {
+    "name": "Euroa Civic Centre",
+    "lat": -36.7530016,
+    "lng": 145.5722512,
+    "address": "Bury Street and Binney Street\nEuroa, VIC 3666"
+  },
+  {
+    "name": "Event Australia Fair Cinemas",
+    "lat": -27.969082,
+    "lng": 153.415665,
+    "phoneNumber": "+61-07-5571-2666",
+    "address": "42 Marine Parade\nSouthport, QLD 4215"
+  },
+  {
+    "name": "Event Cinemas",
+    "lat": -33.875502,
+    "lng": 151.206304,
+    "phoneNumber": "+61-02-9273-7431",
+    "address": "505-525 George Street\nSydney, NSW 2000"
+  },
+  {
+    "name": "Event Cinemas Bondi Junction",
+    "lat": -33.8916693,
+    "lng": 151.2502695,
+    "phoneNumber": "+61(0)2-9300-1555",
+    "address": "500 Oxford Street\nSydney, NSW 2022"
+  },
+  {
+    "name": "Event Cinemas Browns Plain",
+    "lat": -27.6627394,
+    "lng": 153.040202,
+    "phoneNumber": "+61(0)7-3809-3422",
+    "address": "27-49 Browns Plains Road\nBrowns Plains, QLD 4118"
+  },
+  {
+    "name": "Event Cinemas Burwood",
+    "lat": -33.8746166,
+    "lng": 151.1059215,
+    "phoneNumber": "+61(0)2-8878-1240",
+    "address": "100 Burwood Road\nSydney, NSW 2134"
+  },
+  {
+    "name": "Event Cinemas Cairns Central",
+    "lat": -16.9256735,
+    "lng": 145.771288,
+    "phoneNumber": "+61(0)7-4052-1166",
+    "address": "1-21 Mcleod Street\nCairns, QLD 4870"
+  },
+  {
+    "name": "Event Cinemas Cairns City",
+    "lat": -16.9218005,
+    "lng": 145.7743582,
+    "phoneNumber": "+61(0)7-4031-1077",
+    "address": "108 Grafton Street\nCairns, QLD 4870"
+  },
+  {
+    "name": "Event Cinemas Campbelltown",
+    "lat": -34.0735385,
+    "lng": 150.8006204,
+    "phoneNumber": "+61(0)2-4628-0999",
+    "address": "Kellicar Road\nCampbelltown, NSW 2560"
+  },
+  {
+    "name": "Event Cinemas Capalaba",
+    "lat": -27.5232262,
+    "lng": 153.1952386,
+    "phoneNumber": "+61(0)7-3823-3860",
+    "address": "38 Moreton Bay Road\nCapalaba, QLD 4157"
+  },
+  {
+    "name": "Event Cinemas Carindale",
+    "lat": -27.5031582,
+    "lng": 153.1016512,
+    "phoneNumber": "+61(0)73324-6700",
+    "address": "1151 Creek Road\nCarindale, QLD 4152"
+  },
+  {
+    "name": "Event Cinemas Castle Hill",
+    "lat": -33.7318249,
+    "lng": 151.007393,
+    "phoneNumber": "+61-02-8850-9700",
+    "address": "Old Northern Road\nSydney, NSW 2154"
+  },
+  {
+    "name": "Event Cinemas Chermside",
+    "lat": -27.3859646,
+    "lng": 153.0308216,
+    "phoneNumber": "+61(0)7-3632-5555",
+    "address": "Gympie Road and Hamilton Road\nBrisbane, QLD 4032"
+  },
+  {
+    "name": "Event Cinemas Coolangatta",
+    "lat": -28.1685511,
+    "lng": 153.5390252,
+    "phoneNumber": "+61-07-5536-9300",
+    "address": "Griffith Street and Warner Street\nCoolangatta, QLD 4225"
+  },
+  {
+    "name": "Event Cinemas Ed Square",
+    "lat": -33.9709568,
+    "lng": 150.8591884,
+    "address": "Level 1, 52 Soldiers Parade\nEdmondson Park, NSW 2174"
+  },
+  {
+    "name": "Event Cinemas GU Film House Sydney",
+    "lat": -33.9508511,
+    "lng": 151.081847,
+    "phoneNumber": "+61-02-9580-5400",
+    "address": "447-453 King Georges Road\nSydney, NSW 2209"
+  },
+  {
+    "name": "Event Cinemas Garden City Mt Gravatt",
+    "lat": -27.559992,
+    "lng": 153.081135,
+    "phoneNumber": "+61(0)7-3849-0011",
+    "address": "Logan Road and Kessels Road\nUpper Mount Gravatt, QLD 4122"
+  },
+  {
+    "name": "Event Cinemas Glendale",
+    "lat": -32.9343326,
+    "lng": 151.6421844,
+    "phoneNumber": "+61(0)2-4956-9331",
+    "address": "387 Lake Road\nGlendale, NSW 2285"
+  },
+  {
+    "name": "Event Cinemas Gold Class Castle Hill",
+    "lat": -33.7318235,
+    "lng": 151.0075159,
+    "phoneNumber": "+61-02-8850-9744",
+    "address": "Old Northern Road\nSydney, NSW 2154"
+  },
+  {
+    "name": "Event Cinemas Hornsby",
+    "lat": -33.704976,
+    "lng": 151.100215,
+    "phoneNumber": "+61(0)2-9477-5600",
+    "address": "236 Pacific Highway\nSydney, NSW 2077"
+  },
+  {
+    "name": "Event Cinemas Hurstville",
+    "lat": -33.9655188,
+    "lng": 151.1049303,
+    "phoneNumber": "+61(0)2-8558-9200",
+    "address": "Park Road and Cross Street\nSydney, NSW 2220"
+  },
+  {
+    "name": "Event Cinemas Indooroopilly",
+    "lat": -27.4991671,
+    "lng": 152.9726941,
+    "phoneNumber": "+61(0)7-3878-0000",
+    "address": "318 Moggill Road\nBrisbane, QLD 4068"
+  },
+  {
+    "name": "Event Cinemas Innaloo",
+    "lat": -31.90433,
+    "lng": 115.79702,
+    "address": "57 Liege Street\nInnaloo, WA 6018"
+  },
+  {
+    "name": "Event Cinemas Kotara",
+    "lat": -32.9406887,
+    "lng": 151.7123191,
+    "phoneNumber": "+61(0)2-4952-0900",
+    "address": "Park Avenue and Northcott Drive\nKotara, NSW 2285"
+  },
+  {
+    "name": "Event Cinemas Liverpool",
+    "lat": -33.9202266,
+    "lng": 150.9242872,
+    "phoneNumber": "+61(0)2-9601-4611",
+    "address": "Macquarie Street and Elizabeth Street\nSydney, NSW 2170"
+  },
+  {
+    "name": "Event Cinemas Loganholme",
+    "lat": -27.6587475,
+    "lng": 153.1693094,
+    "phoneNumber": "+61-1300-650-733",
+    "address": "Ledra Drive\nShailer Park\nLoganholme, QLD 4128"
+  },
+  {
+    "name": "Event Cinemas Macquarie",
+    "lat": -33.7774825,
+    "lng": 151.118175,
+    "phoneNumber": "+61(0)2-8879-3500",
+    "address": "Herring Road and Waterloo Road\nSydney, NSW 2113"
+  },
+  {
+    "name": "Event Cinemas Maroochydore Sunshine Plaza",
+    "lat": -26.6550969,
+    "lng": 153.0873125,
+    "phoneNumber": "+61(0)7-5409-7222",
+    "address": "154-164 Horton Parade\nMaroochydore, QLD 4558"
+  },
+  {
+    "name": "Event Cinemas Miranda",
+    "lat": -34.035123,
+    "lng": 151.100016,
+    "phoneNumber": "+61-02-9525-6344",
+    "address": "600 Kingsway\nSydney, NSW 2228"
+  },
+  {
+    "name": "Event Cinemas Morayfield",
+    "lat": -27.1044935,
+    "lng": 152.9472875,
+    "phoneNumber": "+61(0)7-5495-1444",
+    "address": "171 Morayfield Road\nMorayfield, QLD 4506"
+  },
+  {
+    "name": "Event Cinemas North Lakes",
+    "lat": -27.2425862,
+    "lng": 153.0206836,
+    "phoneNumber": "+61(0)73480-9800",
+    "address": "Anzac Avenue and North Lakes Drive\nNorth Lakes, QLD 4509"
+  },
+  {
+    "name": "Event Cinemas Parramatta",
+    "lat": -33.8177053,
+    "lng": 151.002119,
+    "phoneNumber": "+61(0)-9407-2777",
+    "address": "159-175 Church Street\nSydney, NSW 2150"
+  },
+  {
+    "name": "Event Cinemas Robina",
+    "lat": -28.0753432,
+    "lng": 153.386139,
+    "phoneNumber": "+61-07-5592-7000",
+    "address": "Collyer Quays & Lido Promenade\nRobina, QLD 4230"
+  },
+  {
+    "name": "Event Cinemas Shellharbour",
+    "lat": -34.5636095,
+    "lng": 150.8357676,
+    "phoneNumber": "+61(0)-4295-4555",
+    "address": "4 Memorial Drive\nShellharbour, NSW 2529"
+  },
+  {
+    "name": "Event Cinemas Springfield",
+    "lat": -27.6776494,
+    "lng": 152.9023563,
+    "phoneNumber": "+61(0)7-3470-6600",
+    "address": "1 Main Street\nSpringfield Central, QLD 4300"
+  },
+  {
+    "name": "Event Cinemas Top Ryde City",
+    "lat": -33.8120866,
+    "lng": 151.105739,
+    "phoneNumber": "+61(0)-8878-1200",
+    "address": "109-135 Blaxland Road\nSydney, NSW 2112"
+  },
+  {
+    "name": "Event Cinemas Tuggerah",
+    "lat": -33.3107651,
+    "lng": 151.4199227,
+    "phoneNumber": "+61(0)2-4353-4181",
+    "address": "50 Wyong Road\nTuggerah, NSW 2259"
+  },
+  {
+    "name": "Event Cinemas Whitfords",
+    "lat": -31.7965746,
+    "lng": 115.7492309,
+    "address": "472 Whitfords Avenue\nWhitfords, WA 6025"
+  },
+  {
+    "name": "Event Cinemas Wollongong",
+    "lat": -34.4262925,
+    "lng": 150.8952264,
+    "phoneNumber": "+61-02-4228-4888",
+    "address": "68 Burelli Street\nWollongong, NSW 2500"
+  },
+  {
+    "name": "Event Marion Megaplex",
+    "lat": -35.0164446,
+    "lng": 138.5448284,
+    "phoneNumber": "+61-08-8377-8588",
+    "address": "297 Diagonal Road\nAdelaide, SA 5046"
+  },
+  {
+    "name": "Event Pacific Fair Cinemas",
+    "lat": -28.0358251,
+    "lng": 153.4191258,
+    "phoneNumber": "+61-07-5572-2666",
+    "address": "Hooker Boulevard\nBroadbeach Waters, QLD 4218"
+  },
+  {
+    "name": "Fay's Twin Cinema",
+    "lat": -31.9018924,
+    "lng": 152.4769433,
+    "phoneNumber": "+61-2-6552-4600",
+    "address": "2 Milligan Street\nTaree, NSW 2430"
+  },
+  {
+    "name": "Fenwick 3",
+    "lat": -33.863169,
+    "lng": 121.890267,
+    "address": "105 Dempster Street\nEsperance, WA 6450"
+  },
+  {
+    "name": "Forbes Cinema",
+    "lat": -33.3857253,
+    "lng": 148.009294,
+    "address": "41 Templar Street\nForbes, NSW 2871"
+  },
+  {
+    "name": "Forum 1 & 2 Theatres",
+    "lat": -37.8157608,
+    "lng": 144.9729124,
+    "phoneNumber": "+61(0)3-9299-9700",
+    "address": "150-62 Flinders Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Forum Cinema 6",
+    "lat": -35.1031141,
+    "lng": 147.3656763,
+    "phoneNumber": "+61-02-6921-6863",
+    "address": "77 Trail Street\nWagga Wagga, NSW 2650"
+  },
+  {
+    "name": "GU Film House Glenelg",
+    "lat": -34.9808535,
+    "lng": 138.5171168,
+    "phoneNumber": "+61(0)8-8375-0000",
+    "address": "2-4 Cowper Street\nAdelaide, SA 5045"
+  },
+  {
+    "name": "Gaelic Club",
+    "lat": -33.8858497,
+    "lng": 151.207485,
+    "phoneNumber": "+61-02-9211-1687",
+    "address": "64 Devonshire Street\nSydney, NSW 2010"
+  },
+  {
+    "name": "Gaiety Cinema",
+    "lat": -41.8868174,
+    "lng": 145.3379037,
+    "address": "Main Street and Dodds Street\nZeehan, TAS 7469"
+  },
+  {
+    "name": "Gala Cinema",
+    "lat": -34.4852281,
+    "lng": 150.8878843,
+    "phoneNumber": "+61-02-4274-2777",
+    "address": "204 Cowper Street\nWarrawong, NSW 2502"
+  },
+  {
+    "name": "Galaxy Cinema",
+    "lat": -19.5944785,
+    "lng": 147.3994901,
+    "phoneNumber": "+61(0)7-4783-1606",
+    "address": "27 Kilrie Road\nAyr, QLD 4807"
+  },
+  {
+    "name": "Galaxy Drive-In",
+    "lat": -31.8051784,
+    "lng": 115.8080545,
+    "address": "Goollelal Drive and Hocking Road\nKingsley, WA 6026"
+  },
+  {
+    "name": "Garfield Picture Theatre",
+    "lat": -38.0920981,
+    "lng": 145.6768162,
+    "address": "51 Main Street\nGarfield, VIC 3814"
+  },
+  {
+    "name": "Gawler Cinemas",
+    "lat": -34.603782,
+    "lng": 138.749708,
+    "address": "11 Murray Street\nGawler, SA 5118"
+  },
+  {
+    "name": "Geelong Performing Arts Centre",
+    "lat": -38.147543,
+    "lng": 144.356443,
+    "phoneNumber": "+61-03-5225-1200",
+    "address": "50 Little Malop Street\nGeelong, VIC 3220"
+  },
+  {
+    "name": "George Revival Cinema",
+    "lat": -37.859388,
+    "lng": 144.97786,
+    "address": "135 Fitzroy Street\nMelbourne, VIC 3182"
+  },
+  {
+    "name": "Gladstone Cinemas",
+    "lat": -23.8555352,
+    "lng": 151.2486086,
+    "phoneNumber": "+61-7-4972-0015",
+    "address": "71 Dawson Road\nGladstone, QLD 4680"
+  },
+  {
+    "name": "Glenbrook Cinema",
+    "lat": -33.7669213,
+    "lng": 150.6219119,
+    "phoneNumber": "+61-02-4739-4433",
+    "address": "Ross Street\nGlenbrook, NSW 2773"
+  },
+  {
+    "name": "Globe Theatre",
+    "lat": -38.23928,
+    "lng": 143.992334,
+    "address": "17 Willis Street\nWinchelsea, VIC 3241"
+  },
+  {
+    "name": "Golden Age Cinema & Bar",
+    "lat": -33.8793612,
+    "lng": 151.2110565,
+    "phoneNumber": "+61(0)2-9211-1556",
+    "address": "80 Commonwealth Street\nSydney, NSW 2010"
+  },
+  {
+    "name": "Grand Cinema Complex",
+    "lat": -31.741192,
+    "lng": 115.7379481,
+    "phoneNumber": "+61-8-9304-1022",
+    "address": "1224 Marmion Avenue\nCurrambine, WA 6028"
+  },
+  {
+    "name": "Grand Cinemas",
+    "lat": -33.3211081,
+    "lng": 115.6354212,
+    "address": "Victoria Street and Clifton Street\nBunbury, WA 6230"
+  },
+  {
+    "name": "Grand Cinemas Warwick",
+    "lat": -31.8451329,
+    "lng": 115.8089963,
+    "phoneNumber": "+61-8-9448-3188",
+    "address": "639 Beach Road\nWarwick, WA 6024"
+  },
+  {
+    "name": "Greater Union Morley",
+    "lat": -31.895199,
+    "lng": 115.897941,
+    "phoneNumber": "+61-8-9275-9255",
+    "address": "Old Collier Road\nMorley, WA 6062"
+  },
+  {
+    "name": "Gundaroo Soldiers Memorial Hall",
+    "lat": -35.0254514,
+    "lng": 149.2653034,
+    "address": "52 Cork Street\nGundaroo, NSW 2620"
+  },
+  {
+    "name": "Harbour City Cinema",
+    "lat": -33.87636,
+    "lng": 151.204041,
+    "phoneNumber": "+61-(0)2-9283-3633",
+    "address": "6-12 Harbour Street\nSydney, NSW 2000"
+  },
+  {
+    "name": "Hawthorne Cinema",
+    "lat": -27.462369,
+    "lng": 153.0604921,
+    "phoneNumber": "+61-07-3899-3450",
+    "address": "261 Hawthorne Road\nBrisbane, QLD 4171"
+  },
+  {
+    "name": "Hayden Orpheum Picture Palace",
+    "lat": -33.828167,
+    "lng": 151.229805,
+    "phoneNumber": "+61-02-99084441",
+    "address": "380 Military Road\nSydney, NSW 2090"
+  },
+  {
+    "name": "Heddon Greta Drive-In",
+    "lat": -32.8089015,
+    "lng": 151.5150071,
+    "phoneNumber": "+61-2-4936-2800",
+    "address": "Averys Lane\nHeddon Greta, NSW 2321"
+  },
+  {
+    "name": "Her Majesty's Theatre",
+    "lat": -37.5626594,
+    "lng": 143.8578987,
+    "phoneNumber": "+61-03-5333-5800",
+    "address": "17 Lydiard Street South\nBallarat, VIC 3350"
+  },
+  {
+    "name": "His Majesty's Theatre",
+    "lat": -31.953356,
+    "lng": 115.854439,
+    "address": "825 Hay Street\nPerth, WA 6000"
+  },
+  {
+    "name": "Hornsby Odeon Cinema",
+    "lat": -33.703584,
+    "lng": 151.097118,
+    "phoneNumber": "+61-02-9476-3777",
+    "address": "155 Pacific Highway\nHornsby\nSydney, NSW 2077"
+  },
+  {
+    "name": "Horsham Town Hall",
+    "lat": -36.716337,
+    "lng": 142.198489,
+    "address": "76 Wilson Street\nHorsham, VIC 3400"
+  },
+  {
+    "name": "Hoyts Bankstown 8",
+    "lat": -33.916039,
+    "lng": 151.0351829,
+    "phoneNumber": "+61-02-9796-4888",
+    "address": "The Mall\nSydney, NSW 2200"
+  },
+  {
+    "name": "Hoyts Belconnen",
+    "lat": -35.238298,
+    "lng": 149.0652688,
+    "address": "18 Benjanim Way\nBelconnen, ACT 2617"
+  },
+  {
+    "name": "Hoyts Blacktown",
+    "lat": -33.7702867,
+    "lng": 150.9059341,
+    "address": "17 Patrick Street\nSydney, NSW 2148"
+  },
+  {
+    "name": "Hoyts Broadmeadows",
+    "lat": -37.678305,
+    "lng": 144.919662,
+    "phoneNumber": "+61-03-9302-3900",
+    "address": "48-50 Pearcedale Parade\nMelbourne, VIC 3047"
+  },
+  {
+    "name": "Hoyts Broadway",
+    "lat": -33.881877,
+    "lng": 151.1947938,
+    "phoneNumber": "+61-02-9211-1911",
+    "address": "Bay Street\nSydney, NSW 2007"
+  },
+  {
+    "name": "Hoyts Chatswood Mandarin ",
+    "lat": -33.798098,
+    "lng": 151.1828708,
+    "phoneNumber": "+61(0)2-9411-8811",
+    "address": "Victor Street and Albert Avenue\nSydney, NSW 2067"
+  },
+  {
+    "name": "Hoyts Chatswood Westfield",
+    "lat": -33.7961565,
+    "lng": 151.1832554,
+    "phoneNumber": "+61(0)2-9003-3840",
+    "address": "Anderson Street and Victoria Avenue\nSydney, NSW 2067"
+  },
+  {
+    "name": "Hoyts Cinemas Cronulla",
+    "lat": -34.051731,
+    "lng": 151.153582,
+    "phoneNumber": "+61-02-9523-0555",
+    "address": "2-6 Cronulla Street\nSydney, NSW 2230"
+  },
+  {
+    "name": "Hoyts Eastgardens",
+    "lat": -33.9448121,
+    "lng": 151.2242561,
+    "address": "152 Bunnerong Road\nSydney, NSW 2036"
+  },
+  {
+    "name": "Hoyts Eastland",
+    "lat": -37.8143378,
+    "lng": 145.2297959,
+    "phoneNumber": "+61-03-9847-5050",
+    "address": "171-175 Maroondah Highway\nMelbourne, VIC 3134"
+  },
+  {
+    "name": "Hoyts Entertainment Quarter",
+    "lat": -33.8945331,
+    "lng": 151.2272117,
+    "phoneNumber": "+61-02-9332-1300",
+    "address": "122 Lang Road\nSydney, NSW 2021"
+  },
+  {
+    "name": "Hoyts Erina",
+    "lat": -33.4377487,
+    "lng": 151.3930002,
+    "address": "419 Terrigal Drive\nErina, NSW 2250"
+  },
+  {
+    "name": "Hoyts Forest Hill 6",
+    "lat": -37.8341436,
+    "lng": 145.166418,
+    "phoneNumber": "+61-03-9894-2000",
+    "address": "Mahoneys Road and Canterbury Road\nMelbourne, VIC 3131"
+  },
+  {
+    "name": "Hoyts Frankston",
+    "lat": -38.143691,
+    "lng": 145.1232282,
+    "phoneNumber": "+61-03-9781-111",
+    "address": "21 Wells Street\nMelbourne, VIC 3199"
+  },
+  {
+    "name": "Hoyts Garden City",
+    "lat": -32.032924,
+    "lng": 115.8382748,
+    "address": "Almondbury Road and Risely Street\nBooragoon, WA 6154"
+  },
+  {
+    "name": "Hoyts Green Hills",
+    "lat": -32.7627318,
+    "lng": 151.5914987,
+    "address": "1 Molly Morgan Drive\nEast Maitland, NSW 2323"
+  },
+  {
+    "name": "Hoyts Greensborough",
+    "lat": -37.7031057,
+    "lng": 145.1025727,
+    "address": "25 Main Street\nMelbourne, VIC 3088"
+  },
+  {
+    "name": "Hoyts Highpoint",
+    "lat": -37.773683,
+    "lng": 144.889455,
+    "phoneNumber": "+61-03-9318-6800",
+    "address": "200 Rosemond Road\nMelbourne, VIC 3032"
+  },
+  {
+    "name": "Hoyts Karrinyup ",
+    "lat": -31.8765565,
+    "lng": 115.7784366,
+    "address": "200 Karrinyup Road\nKarrinyup, WA 6018"
+  },
+  {
+    "name": "Hoyts Melbourne Central",
+    "lat": -37.8123792,
+    "lng": 144.965163,
+    "phoneNumber": "+61-03-1300-357-357",
+    "address": "Swanston Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Hoyts Millenium Cinemas",
+    "lat": -32.0565974,
+    "lng": 115.7464296,
+    "phoneNumber": "+61-8-9430-6988",
+    "address": "29 Collie Street\nFremantle, WA 6160"
+  },
+  {
+    "name": "Hoyts Mount Druitt",
+    "lat": -33.7642904,
+    "lng": 150.8173368,
+    "address": "Carlisle Avenue and Luxford Road\nMount Druitt, NSW 2770"
+  },
+  {
+    "name": "Hoyts Northland",
+    "lat": -37.738956,
+    "lng": 145.029852,
+    "phoneNumber": "+61-03-9478-7888",
+    "address": "50 Murray Road\nMelbourne, VIC 3072"
+  },
+  {
+    "name": "Hoyts Norwood",
+    "lat": -34.9210104,
+    "lng": 138.6369388,
+    "phoneNumber": "+61-08-8332-5555",
+    "address": "185 The Parade\nAdelaide, SA 5067"
+  },
+  {
+    "name": "Hoyts Penrith",
+    "lat": -33.7504722,
+    "lng": 150.6944783,
+    "address": "Jane Street and Reilly Street\nPenrith, NSW 2750"
+  },
+  {
+    "name": "Hoyts Redcliffe",
+    "lat": -27.2258868,
+    "lng": 153.0877482,
+    "address": "272 Anzac Avenue\nKippa-Ring, QLD 4021"
+  },
+  {
+    "name": "Hoyts Salisbury",
+    "lat": -34.7622739,
+    "lng": 138.6431986,
+    "address": "James Street and Gawler Street\nSalisbury, SA 5108"
+  },
+  {
+    "name": "Hoyts Southlands 8",
+    "lat": -32.0574421,
+    "lng": 115.8798799,
+    "phoneNumber": "+61-8-9466-4940",
+    "address": "45 Burrendah Boulevard\nWilletton, WA 6155"
+  },
+  {
+    "name": "Hoyts Stafford",
+    "lat": -27.4099793,
+    "lng": 153.0126169,
+    "phoneNumber": "+61-7-3339-9710",
+    "address": "400 Stafford Road\nBrisbane, QLD 4053"
+  },
+  {
+    "name": "Hoyts Sunnybank 8",
+    "lat": -27.5719751,
+    "lng": 153.064175,
+    "address": "Mains Road and McCullough Street\nBrisbane, QLD 4109"
+  },
+  {
+    "name": "Hoyts Tea Tree Plaza",
+    "lat": -34.8315211,
+    "lng": 138.691848,
+    "address": "976 North East Road\nAdelaide, SA 5092"
+  },
+  {
+    "name": "Hoyts Victoria Gardens",
+    "lat": -37.8115026,
+    "lng": 145.0097889,
+    "address": "Victoria Street and Burnley Street\nMelbourne, VIC 3121"
+  },
+  {
+    "name": "Hoyts Warrawong",
+    "lat": -34.4854213,
+    "lng": 150.8876548,
+    "address": "King Street and Cowper Street\nWarrawong, NSW 2502"
+  },
+  {
+    "name": "Hoyts Warringah Mall",
+    "lat": -33.7703494,
+    "lng": 151.2660877,
+    "address": "Condamine Street and Old Pittwater Road\nSydney, NSW 2100"
+  },
+  {
+    "name": "Hoyts Watergardens",
+    "lat": -37.7000029,
+    "lng": 144.7766851,
+    "address": "399 Melton Highway\nTaylors Lakes, VIC 3038"
+  },
+  {
+    "name": "Hoyts Wetherill Park",
+    "lat": -33.8587008,
+    "lng": 150.8978331,
+    "address": "561-583 Polding Street\nWetherill Park, NSW 2164"
+  },
+  {
+    "name": "Hoyts Woden",
+    "lat": -35.3470077,
+    "lng": 149.0873489,
+    "address": "8 Bradley Street\nPhillip, ACT 2606"
+  },
+  {
+    "name": "Huskisson Pictures",
+    "lat": -35.0403263,
+    "lng": 150.6680631,
+    "phoneNumber": "+61-02-4441-5076",
+    "address": "Sydney Street\nHuskisson, NSW 2540"
+  },
+  {
+    "name": "IMAX Melbourne Theatre",
+    "lat": -37.7998743,
+    "lng": 144.9700196,
+    "phoneNumber": "+61-03-9663-5454",
+    "address": "Rathdowne Street\nCarlton Gardens\nMelbourne, VIC 3053"
+  },
+  {
+    "name": "Impressario Theatre",
+    "lat": -37.6758904,
+    "lng": 144.4351555,
+    "address": "5 Grant Street\nBacchus Marsh, VIC 3340"
+  },
+  {
+    "name": "Inlet Cinema",
+    "lat": -35.1564596,
+    "lng": 150.6003389,
+    "address": "173 Jacobs Drive\nSussex Inlet, NSW 2540"
+  },
+  {
+    "name": "Jericho Drive-In",
+    "lat": -23.601855,
+    "lng": 146.1230946,
+    "address": "Darwin Street\nJericho, QLD 4728"
+  },
+  {
+    "name": "Jindabyne  Cinema",
+    "lat": -36.414498,
+    "lng": 148.622958,
+    "phoneNumber": "+61-6457-1777",
+    "address": "Kosciuszko Road and Thredbo Terrace\nJindabyne, NSW 2627"
+  },
+  {
+    "name": "Katanning Town Hall",
+    "lat": -33.690604,
+    "lng": 117.554103,
+    "address": "16-24 Austral Terrace\nKatanning, WA 6317"
+  },
+  {
+    "name": "Kookaburra Outdoor Cinema",
+    "lat": -31.9583114,
+    "lng": 116.1875814,
+    "address": "Allen Road\nMundaring Weir, WA 6074"
+  },
+  {
+    "name": "Koorda Drive-In",
+    "lat": -30.8317997,
+    "lng": 117.4815398,
+    "phoneNumber": "+61-8-9684-1081",
+    "address": "Aitken Road and Orchard Street\nKoorda, WA 6475"
+  },
+  {
+    "name": "Koorliny Arts Centre",
+    "lat": -32.2400366,
+    "lng": 115.8127529,
+    "address": "Sulphur Road and Gilmore Avenue\nKwinana, WA 6167"
+  },
+  {
+    "name": "Kununurra Picture Gardens",
+    "lat": -15.7707758,
+    "lng": 128.7347093,
+    "address": "Lot 603/604 Coolibah Drive\nKununurra, WA 6743"
+  },
+  {
+    "name": "Kyneton Town Hall",
+    "lat": -37.2469885,
+    "lng": 144.4535994,
+    "address": "141 Mollison Street\nKyneton, VIC 3444"
+  },
+  {
+    "name": "Kyogle Cinemas",
+    "lat": -28.6210913,
+    "lng": 153.002135,
+    "address": "26 Bloore Street\nKyogle, NSW 2474"
+  },
+  {
+    "name": "La Trobe University Cinema",
+    "lat": -37.7169879,
+    "lng": 145.0431534,
+    "phoneNumber": "+61(0)3-478-3122",
+    "address": "Plenty Road and Kingsbury Drive\nMelbourne, VIC 3083"
+  },
+  {
+    "name": "Lake Cinema",
+    "lat": -32.9542387,
+    "lng": 151.6230246,
+    "phoneNumber": "+61-2-4958-5810",
+    "address": "62 Main Road\nBoolaroo, NSW 2284"
+  },
+  {
+    "name": "Leinster Drive-In and Open Air Theatre",
+    "lat": -27.9184279,
+    "lng": 120.7009311,
+    "address": "Worrung Road\nLeinster, WA 6437"
+  },
+  {
+    "name": "Liberty Theatre",
+    "lat": -31.9539636,
+    "lng": 115.8605735,
+    "address": "81 Barrack Street\nPerth, WA 6000"
+  },
+  {
+    "name": "Lido Cinemas",
+    "lat": -37.8205165,
+    "lng": 145.0355127,
+    "address": "675 Glenferrie Road\nMelbourne, VIC 3122"
+  },
+  {
+    "name": "Lighthouse Theatre",
+    "lat": -38.385452,
+    "lng": 142.4818822,
+    "phoneNumber": "+61-(0)300-003-280",
+    "address": "185 Timor Street\nWarrnambool, VIC 3280"
+  },
+  {
+    "name": "Lilac City Cinema",
+    "lat": -34.7534423,
+    "lng": 149.7177127,
+    "phoneNumber": "+61(0)2-4822-1616",
+    "address": "1 Lilac Place\nGoulburn, NSW 2580"
+  },
+  {
+    "name": "Lincoln Cinema",
+    "lat": -34.721606,
+    "lng": 135.856587,
+    "phoneNumber": "+61.8.8683.1199",
+    "address": "3 Hallett Place\nPort Lincoln, SA 5606"
+  },
+  {
+    "name": "Little Gem Theatre",
+    "lat": -33.308319,
+    "lng": 117.342678,
+    "phoneNumber": "+61-8-9861-1481",
+    "address": "6 Trent Street\nWagin, WA 6315"
+  },
+  {
+    "name": "Luna Leederville",
+    "lat": -31.9363935,
+    "lng": 115.8412711,
+    "phoneNumber": "+61(0)8-9444-4056",
+    "address": "155 Oxford Street\nLeederville, WA 6007"
+  },
+  {
+    "name": "Luna Outdoor Cinema",
+    "lat": -31.9319995,
+    "lng": 115.8412958,
+    "address": "Oxford Street\nLeederville, WA 6007"
+  },
+  {
+    "name": "Luna on SX",
+    "lat": -32.057376,
+    "lng": 115.748018,
+    "address": "13 Essex Street\nFremantle\nPerth, WA 6160"
+  },
+  {
+    "name": "Lunar Drive-In",
+    "lat": -38.010676,
+    "lng": 145.230633,
+    "phoneNumber": "+61-3-9706-9988",
+    "address": "115 S. Gippsland Highway\nMelbourne, VIC 3175"
+  },
+  {
+    "name": "Mackay City Cinemas",
+    "lat": -21.142972,
+    "lng": 149.1858215,
+    "phoneNumber": "+61(0)7-4957-3515",
+    "address": "30 Gordon Street\nMackay, QLD 4740"
+  },
+  {
+    "name": "Majestic Cinemas",
+    "lat": -27.4422025,
+    "lng": 153.171215,
+    "address": "82 Berrima Street\nBrisbane, QLD 4178"
+  },
+  {
+    "name": "Majestic Cinemas",
+    "lat": -31.4292102,
+    "lng": 152.9083362,
+    "address": "Horton Street and Clarence Street\nPort Macquarrie, NSW 2444"
+  },
+  {
+    "name": "Majestic Theatre",
+    "lat": -17.3539838,
+    "lng": 145.5918766,
+    "phoneNumber": "+61-07-40-96-5726",
+    "address": "Eacham Place\nMalanda, QLD 4885"
+  },
+  {
+    "name": "Majestic Theatre",
+    "lat": -26.3656935,
+    "lng": 152.857449,
+    "phoneNumber": "+61-07-5485-2330",
+    "address": "3 Factory Street\nPomona, QLD 4568"
+  },
+  {
+    "name": "Mansfield Armchair Cinema",
+    "lat": -37.0531413,
+    "lng": 146.0925841,
+    "phoneNumber": "+61-03-5775-2049",
+    "address": "1 Chenery Street\nMansfield, VIC 3723"
+  },
+  {
+    "name": "Margaret River Heart Cinema",
+    "lat": -33.954447,
+    "lng": 115.067953,
+    "address": "51 Wallcliffe Road\nMargaret River, WA 6285"
+  },
+  {
+    "name": "Matt Dann Theatre & Cinema",
+    "lat": -20.4077183,
+    "lng": 118.5962392,
+    "phoneNumber": "+61-8-9158-9368",
+    "address": "35 Hamilton Road\nSouth Hedland, WA 6722"
+  },
+  {
+    "name": "Meekatharra Picture Gardens",
+    "lat": -26.5894453,
+    "lng": 118.4971204,
+    "address": "Great Northern Highway and Meehan Street\nMeekatharra, WA 6642"
+  },
+  {
+    "name": "Memorial Hall",
+    "lat": -37.653775,
+    "lng": 145.516117,
+    "address": "233 Nicholson Street\nHealesville, VIC 3777"
+  },
+  {
+    "name": "Metro 5 Cinemas",
+    "lat": -33.4204841,
+    "lng": 149.5745674,
+    "phoneNumber": "+61-02-6331-8000",
+    "address": "144 Piper Street\nBathurst, NSW 2795"
+  },
+  {
+    "name": "Metro Cinemas Boronia",
+    "lat": -37.861951,
+    "lng": 145.28601,
+    "phoneNumber": "+61-03.9762.8744",
+    "address": "216 Dorset Road\nMelbourne, VIC 3155"
+  },
+  {
+    "name": "Metro Cinemas Burnie",
+    "lat": -41.0513077,
+    "lng": 145.9086917,
+    "phoneNumber": "+61-(0)3-6431-5000",
+    "address": "Marine Terrace and Wilmot Street\nBurnie, TAS 7320"
+  },
+  {
+    "name": "Metro Cinemas Lake Haven",
+    "lat": -33.2426668,
+    "lng": 151.5061538,
+    "phoneNumber": "+61-(0)2-4393-6000",
+    "address": "70 Chelmsford Road\nLake Haven, NSW 2263"
+  },
+  {
+    "name": "Mid City Chinatown Cinema",
+    "lat": -37.8128935,
+    "lng": 144.9675919,
+    "phoneNumber": "+61-03-9662-3465",
+    "address": "194 Bourke Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Middleback Theatre",
+    "lat": -33.0287483,
+    "lng": 137.5399041,
+    "address": "141a Nicolson Avenue\nWhyalla Norrie, SA 5608"
+  },
+  {
+    "name": "Midland Outdoor Cinema",
+    "lat": -31.8907169,
+    "lng": 116.0073303,
+    "address": "Cale Street and The Crescent\nMidland, WA 6056"
+  },
+  {
+    "name": "Milton Theatre",
+    "lat": -35.3157103,
+    "lng": 150.4350906,
+    "phoneNumber": "+61-02.4454.3636",
+    "address": "69 Princes Highway\nMilton, NSW 2538"
+  },
+  {
+    "name": "Montreal Community Theatre",
+    "lat": -35.300676,
+    "lng": 148.222602,
+    "phoneNumber": "+61-02-69-47-4840",
+    "address": "44-46 Russell Street\nTumut, NSW 2720"
+  },
+  {
+    "name": "Moonlight Cinema Adelaide",
+    "lat": -34.9134709,
+    "lng": 138.6103508,
+    "address": "Plane Tree Drive\nAdelaide, SA 5000"
+  },
+  {
+    "name": "Moonlight Cinema Brisbane",
+    "lat": -27.46653,
+    "lng": 153.0516329,
+    "address": "Lamington Street\nBrisbane, QLD 4005"
+  },
+  {
+    "name": "Moonlight Cinema Melbourne",
+    "lat": -37.8338582,
+    "lng": 144.9825274,
+    "address": "Birdwood Avenue\nMelbourne, VIC 3141"
+  },
+  {
+    "name": "Moonlight Cinema Perth",
+    "lat": -31.970373,
+    "lng": 115.8177959,
+    "address": "May Drive, Kings Park\nPerth, WA 6009"
+  },
+  {
+    "name": "Moonlight Cinema Port Douglas",
+    "lat": -16.509752,
+    "lng": 145.4626822,
+    "address": "87-109 Port Douglas Road\nPort Douglas, QLD 4877"
+  },
+  {
+    "name": "Moonlight Cinema Sydney",
+    "lat": -33.891599,
+    "lng": 151.2403457,
+    "address": "Broome Avenue\nSydney, NSW 2021"
+  },
+  {
+    "name": "Moonlit Cinema",
+    "lat": -14.4957528,
+    "lng": 132.393185,
+    "address": "Carson Drive\nTindal, NT 0853"
+  },
+  {
+    "name": "Mornington Cinemas",
+    "lat": -38.216675,
+    "lng": 145.036234,
+    "phoneNumber": "+61-03-5975-5141",
+    "address": "1 Main Street\nMelbourne, VIC 3931"
+  },
+  {
+    "name": "Mount Magnet Cinema",
+    "lat": -28.0627416,
+    "lng": 117.8491845,
+    "address": "Hepburn Street and Naughton Street\nMount Magnet, WA 6638"
+  },
+  {
+    "name": "Mov'in Boat Floating Outdoor Cinema",
+    "lat": -33.8719828,
+    "lng": 151.1990855,
+    "address": "2-10 Darling Drive\nSydney, NSW 2000"
+  },
+  {
+    "name": "Movie Room",
+    "lat": -33.8765586,
+    "lng": 151.2213849,
+    "phoneNumber": "+61-02-9380-5162",
+    "address": "112 Darlinghurst Road\nSydney, NSW 2010"
+  },
+  {
+    "name": "Movies at Cape Mentelle",
+    "lat": -33.962189,
+    "lng": 115.041374,
+    "address": "331 Wallcliffe Road\nMargaret River, WA 6285"
+  },
+  {
+    "name": "Movies in the Square",
+    "lat": -32.0547576,
+    "lng": 115.7484294,
+    "address": "William Street\nFremantle, WA 6160"
+  },
+  {
+    "name": "Murray Bridge Town Hall",
+    "lat": -35.118038,
+    "lng": 139.276497,
+    "address": "17 Bridge Street\nMurray Bridge, SA 5253"
+  },
+  {
+    "name": "Myer Centre 8",
+    "lat": -27.470647,
+    "lng": 153.02489,
+    "phoneNumber": "+61-07-3027-9999",
+    "address": "91 Queen Street\nBrisbane, QLD 4000"
+  },
+  {
+    "name": "Naracoorte Town Hall",
+    "lat": -36.9555281,
+    "lng": 140.7423868,
+    "address": "95 Smith Street\nNarracoorte, SA 5271"
+  },
+  {
+    "name": "National Theatre",
+    "lat": -37.8670996,
+    "lng": 144.9808183,
+    "phoneNumber": "+61(0)3-9534-0221",
+    "address": "20 Carlisle Street\nMelbourne, VIC 3182"
+  },
+  {
+    "name": "Nautilus Arts Centre",
+    "lat": -34.7203589,
+    "lng": 135.8577384,
+    "address": "66 Tasman Terrace\nPort Lincoln, SA 5606"
+  },
+  {
+    "name": "Nerang Cinemas",
+    "lat": -27.992246,
+    "lng": 153.335998,
+    "phoneNumber": "+61-07-5502-0222",
+    "address": "52 Price Street\nNerang, QLD 4211"
+  },
+  {
+    "name": "New Farm Six Cinemas",
+    "lat": -27.464783,
+    "lng": 153.042642,
+    "phoneNumber": "+61(0)7-3358-4444",
+    "address": "701 Brunswick Street\nBrisbane, QLD 4005"
+  },
+  {
+    "name": "Noarlunga Cinema Centre",
+    "lat": -35.1396369,
+    "lng": 138.4889892,
+    "phoneNumber": "+61-08-8326-1313",
+    "address": "38-42 David Witton Drive\nAdelaide, SA 5168"
+  },
+  {
+    "name": "Northbridge Piazza",
+    "lat": -31.9479186,
+    "lng": 115.856798,
+    "address": "Lake Street and James Street\nNorthbridge, WA 6003"
+  },
+  {
+    "name": "Northern Festival Centre",
+    "lat": -33.1787272,
+    "lng": 138.0068035,
+    "phoneNumber": "+61(0)8-8633-8500",
+    "address": "106 Gertrude Street\nPort Pirie, SA 5540"
+  },
+  {
+    "name": "Norton Street Cinemas",
+    "lat": -33.8847995,
+    "lng": 151.1572956,
+    "phoneNumber": "+61-02-9550-0122",
+    "address": "99 Norton Street\nSydney, NSW 2040"
+  },
+  {
+    "name": "Norwood Town Hall",
+    "lat": -34.9208966,
+    "lng": 138.636278,
+    "address": "175 The Parade\nAdelaide, SA 5067"
+  },
+  {
+    "name": "Oatmill Cinema",
+    "lat": -37.8256039,
+    "lng": 140.7712393,
+    "phoneNumber": "+61-08-8724-9150",
+    "address": "7 Percy Street\nMount Gambier, SA 5290"
+  },
+  {
+    "name": "Odeon Norwood",
+    "lat": -34.920524,
+    "lng": 138.638501,
+    "phoneNumber": "+61-08-8333-0444",
+    "address": "57a Queen Street\nAdelaide, SA 5067"
+  },
+  {
+    "name": "Odeon Star Semaphore",
+    "lat": -34.8390593,
+    "lng": 138.4837845,
+    "phoneNumber": "+61-08-8341-5988",
+    "address": "65 Semaphore Road\nAdelaide, SA 5019"
+  },
+  {
+    "name": "Odeon Theatre",
+    "lat": -42.883376,
+    "lng": 147.3248672,
+    "phoneNumber": "+61-3-6234-3160",
+    "address": "167 Liverpool Street\nHobart, TAS 7000"
+  },
+  {
+    "name": "Old Scout Hall",
+    "lat": -31.8908266,
+    "lng": 116.7635976,
+    "address": "8 Bird Street\nYork, WA 6302"
+  },
+  {
+    "name": "Oodnadatta Drive-In",
+    "lat": -27.5489724,
+    "lng": 135.4482453,
+    "address": "Oodnadatta Track and N. Terrace E\nOodnadatta, SA 5734"
+  },
+  {
+    "name": "Orana Cinemas",
+    "lat": -33.651814,
+    "lng": 115.344373,
+    "phoneNumber": "+61(0)8-9752-3655",
+    "address": "27 Albert Street\nBusselton, WA 6280"
+  },
+  {
+    "name": "Orana Cinemas",
+    "lat": -30.7641192,
+    "lng": 121.4850957,
+    "address": "26 Oswald Street\nKalgoorlie, WA 6430"
+  },
+  {
+    "name": "Orana Cinemas",
+    "lat": -28.7756854,
+    "lng": 114.6064052,
+    "phoneNumber": "+61(0)8-9965-0568",
+    "address": "229-235 Marine Terrace\nGeraldton, WA 6530"
+  },
+  {
+    "name": "Orana Cinemas ",
+    "lat": -34.9942661,
+    "lng": 117.8572738,
+    "phoneNumber": "+61-8-9842-2210",
+    "address": "451 Albany Highway\nOrana, WA 6330"
+  },
+  {
+    "name": "Orana Cinemas & Lisa's Cafe",
+    "lat": -31.4818044,
+    "lng": 118.2754606,
+    "phoneNumber": "+61-8-9041-1713",
+    "address": "33 Barrack Street\nMerredin, WA 6415"
+  },
+  {
+    "name": "Outback Open Air Cinema at Coober Pedy",
+    "lat": -29.009364,
+    "lng": 134.7555992,
+    "phoneNumber": "+61-08-8672-4617",
+    "address": "131-133 Hutchinson Street\nCoober Pedy, SA 5723"
+  },
+  {
+    "name": "Outdoor Bed Cinema",
+    "lat": -31.9618497,
+    "lng": 115.8759299,
+    "address": "1 Adelaide Terrace\nEast Perth, WA 6004"
+  },
+  {
+    "name": "Outside-In Cinema",
+    "lat": -37.8100565,
+    "lng": 144.9643151,
+    "address": "328 Swanston Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Palace Brighton Dendy",
+    "lat": -37.9128797,
+    "lng": 144.9930704,
+    "phoneNumber": "+61-03-9592-7815",
+    "address": "26 Church Street\nMelbourne, VIC 3186"
+  },
+  {
+    "name": "Palace Central Cinemas",
+    "lat": -33.8842144,
+    "lng": 151.2007174,
+    "phoneNumber": "+61-(0)2-9190-2290",
+    "address": "28 Broadway\nSydney, NSW 2008"
+  },
+  {
+    "name": "Palace Centro Cinemas",
+    "lat": -27.457245,
+    "lng": 153.039666,
+    "phoneNumber": "+61-07-3852-4488",
+    "address": "39 James Street\nBrisbane, QLD 4006"
+  },
+  {
+    "name": "Palace Electric Cinemas",
+    "lat": -35.2850102,
+    "lng": 149.1232515,
+    "phoneNumber": "+61-2-6222-4900",
+    "address": "2 Phillip Law Street\nCanberra, ACT 2601"
+  },
+  {
+    "name": "Palace Kino Cinemas",
+    "lat": -37.8138476,
+    "lng": 144.9724244,
+    "phoneNumber": "+61.3.9650.2100",
+    "address": "45 Collins Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Palace Raine Square",
+    "lat": -31.952035,
+    "lng": 115.8565453,
+    "address": "300 Murray Street\nPerth, WA 6000"
+  },
+  {
+    "name": "Palais Theatre",
+    "lat": -37.8655057,
+    "lng": 144.9735607,
+    "phoneNumber": "+61(0)3-8537-7677",
+    "address": "1 Lower Esplanade\nMelbourne, VIC 3182"
+  },
+  {
+    "name": "Pannawonica Drive-In",
+    "lat": -21.6410042,
+    "lng": 116.3230593,
+    "address": "Deep Dale Drive\nPannawonica, WA 6716"
+  },
+  {
+    "name": "Paraburdoo Open Air Gardens and Drive-In",
+    "lat": -23.2045594,
+    "lng": 117.6691237,
+    "address": "Lot 620 Camp Road \nParaburdoo, WA 6754"
+  },
+  {
+    "name": "Paragon Theatre",
+    "lat": -25.236085,
+    "lng": 152.2767366,
+    "address": "75 Churchill Street\nChilders, QLD 4660"
+  },
+  {
+    "name": "Paragon Theatre",
+    "lat": -42.0823769,
+    "lng": 145.5525797,
+    "address": "McNamara Street\nQueenstown, TAS 7467\nAustralia"
+  },
+  {
+    "name": "Paramount Cinema",
+    "lat": -36.13009,
+    "lng": 144.749214,
+    "phoneNumber": "+61-03-5482-3399",
+    "address": "392 High Street\nEchuca, VIC 3564"
+  },
+  {
+    "name": "Parrotiso's Outdoor Cinema",
+    "lat": -27.724374,
+    "lng": 114.1557419,
+    "phoneNumber": "+61-9937-1248",
+    "address": "Red Bluff Road\nKalbarri, WA 6536"
+  },
+  {
+    "name": "Pentridge Cinema",
+    "lat": -37.7370508,
+    "lng": 144.9677596,
+    "phoneNumber": "+61(0)3-8579-5380",
+    "address": "1 Champ Street\nMelbourne, VIC 3058"
+  },
+  {
+    "name": "Perth Zoo Twilight Outdoor Cinema",
+    "lat": -31.9742624,
+    "lng": 115.8540612,
+    "address": "20 Laubouchere Road\nSouth Perth, WA 6151"
+  },
+  {
+    "name": "Pioneer (Walk-In) Open Air Theatre & YHA Movies",
+    "lat": -23.6992803,
+    "lng": 133.8840221,
+    "phoneNumber": "+61-8-8952-8855",
+    "address": "26 Parsons Street\nAlice Springs, NT 0870"
+  },
+  {
+    "name": "Pivotonian Cinema",
+    "lat": -38.1585352,
+    "lng": 144.3555795,
+    "phoneNumber": "+61-5222-4894",
+    "address": "Moorabool Street and Verner Street\nGeelong, VIC 3220"
+  },
+  {
+    "name": "Plaza Ballroom",
+    "lat": -37.815387,
+    "lng": 144.967496,
+    "address": "191 Collins Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Plaza Cinemas",
+    "lat": -37.7961308,
+    "lng": 145.2822423,
+    "phoneNumber": "+61-03-9725-6544",
+    "address": "3 Hewish Road\nMelbourne, VIC 3136"
+  },
+  {
+    "name": "Plaza Theatre",
+    "lat": -36.313163,
+    "lng": 145.049098,
+    "phoneNumber": "+61-03-5852-3151",
+    "address": "243 Allan Street\nKyabram, VIC 3620"
+  },
+  {
+    "name": "Point Cook Cinema",
+    "lat": -37.927748,
+    "lng": 144.7341166,
+    "address": "Aviation Road\nPoint Cook, VIC 3030"
+  },
+  {
+    "name": "Popanyinning Community Hall",
+    "lat": -32.6588493,
+    "lng": 117.1229933,
+    "phoneNumber": "+61-8-9883-6031",
+    "address": "98 Francis Street\nPopanyinning, WA 6309"
+  },
+  {
+    "name": "Port Theatre",
+    "lat": -35.0283493,
+    "lng": 117.8853417,
+    "address": "256 Princess Royal Drive\nAlbany, WA 6330"
+  },
+  {
+    "name": "Princess Theatre",
+    "lat": -41.4361794,
+    "lng": 147.1413537,
+    "phoneNumber": "+61(0)3-6323-3666",
+    "address": "57 Brisbane Street\nLaunceston, TAS 7250"
+  },
+  {
+    "name": "Princess Theatre",
+    "lat": -37.810728,
+    "lng": 144.972328,
+    "phoneNumber": "+61(0)3-9299-9800",
+    "address": "163 Spring Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Princess Theatre",
+    "lat": -27.4863628,
+    "lng": 153.0292284,
+    "address": "8 Annerley Road\nWoolloongaba, QLD 4101"
+  },
+  {
+    "name": "Prison Cinema",
+    "lat": -32.054978,
+    "lng": 115.7536142,
+    "address": "Fairbairn Street\nFremantle, WA 6160"
+  },
+  {
+    "name": "Progress Theatre",
+    "lat": -37.7471782,
+    "lng": 144.9504567,
+    "address": "236 Reynard Street\nMelbourne, VIC 3058"
+  },
+  {
+    "name": "Queen's Park Theatre",
+    "lat": -28.7806812,
+    "lng": 114.6146843,
+    "phoneNumber": "+61-8-9956-6662",
+    "address": "75 Cathedral Avenue\nGeraldton, WA 6530"
+  },
+  {
+    "name": "Reading Auburn",
+    "lat": -33.8473492,
+    "lng": 151.0448456,
+    "phoneNumber": "+61-02-9647-0900",
+    "address": "100 Parramata Road\nSydney, NSW 2144"
+  },
+  {
+    "name": "Reading Biggera Waters Cinemas",
+    "lat": -27.9344337,
+    "lng": 153.3904983,
+    "phoneNumber": "+61-07-5500-9700",
+    "address": "Gold Coast Highway and Oxley Drive\nBiggera Waters, QLD 4216"
+  },
+  {
+    "name": "Reading Boardwalk 6",
+    "lat": -32.5271572,
+    "lng": 115.7257478,
+    "phoneNumber": "+61(0)8-9535-2800",
+    "address": "Ormsby Terrace and Peel Street\nMandurah, WA 6210"
+  },
+  {
+    "name": "Reading Chirnside Park",
+    "lat": -37.7613543,
+    "lng": 145.3103945,
+    "phoneNumber": "+61-03-9727-7900",
+    "address": "Maroonda Highway and Kimberley Drive\nMelbourne, VIC 3116"
+  },
+  {
+    "name": "Reading Cinemas Belmont",
+    "lat": -31.9433745,
+    "lng": 115.9257538,
+    "phoneNumber": "+61-8-6272-9900",
+    "address": "Knutsford Avenue and Fulham Street\nBelmont, WA 6104"
+  },
+  {
+    "name": "Reading Cinemas Bundaberg",
+    "lat": -24.8887524,
+    "lng": 152.3216361,
+    "phoneNumber": "+61-7-4152-1233",
+    "address": "1 Johanna Boulevard\nBundaberg, QLD 4670"
+  },
+  {
+    "name": "Reading Cinemas Burwood",
+    "lat": -37.84816410000001,
+    "lng": 145.1334664,
+    "phoneNumber": "+61(0)3-8820-6110",
+    "address": "78 Middleborough Road\nMelbourne, VIC 3151"
+  },
+  {
+    "name": "Reading Cinemas Charlestown",
+    "lat": -32.9383195,
+    "lng": 151.6830707,
+    "address": "30 Main Road\nCharlestown, NSW 2290"
+  },
+  {
+    "name": "Reading Cinemas Dubbo",
+    "lat": -32.24572,
+    "lng": 148.6008964,
+    "address": "49 Macquarie Street\nDubbo, NSW 2830"
+  },
+  {
+    "name": "Reading Cinemas Elizabeth",
+    "lat": -34.7181597,
+    "lng": 138.66834,
+    "address": "50 Elizabeth Way\nElizabeth, SA 5112"
+  },
+  {
+    "name": "Reading Cinemas Epping",
+    "lat": -37.6537784,
+    "lng": 145.0220688,
+    "address": "571-583 Highgate Hill\nMelbourne, VIC 3076"
+  },
+  {
+    "name": "Reading Cinemas Maitland",
+    "lat": -32.7338125,
+    "lng": 151.5548956,
+    "address": "Ken Tubman Drive\nMaitland, NSW 2320"
+  },
+  {
+    "name": "Reading Cinemas Melton",
+    "lat": -37.6859778,
+    "lng": 144.5640008,
+    "address": "533 High Street\nMelton, VIC 3337"
+  },
+  {
+    "name": "Reading Cinemas Millers Junction",
+    "lat": -37.8425682,
+    "lng": 144.8424211,
+    "address": "22 Hunter Road\nMelbourne, VIC 3025"
+  },
+  {
+    "name": "Reading Cinemas Sunbury",
+    "lat": -37.5808474,
+    "lng": 144.7248983,
+    "address": "Horne Street\nSunbury, VIC 3429"
+  },
+  {
+    "name": "Reading Cinemas Thuringowa",
+    "lat": -19.3188007,
+    "lng": 146.724776,
+    "address": "30 Hervey Range Road\nThuringowa, QLD 4817"
+  },
+  {
+    "name": "Reading Cinemas Traralgon",
+    "lat": -38.1931819,
+    "lng": 146.5386405,
+    "address": "192 Franklin Street\nTraralgon, VIC 3844"
+  },
+  {
+    "name": "Reading Cinemas Waurn Ponds",
+    "lat": -38.1969156,
+    "lng": 144.3186414,
+    "phoneNumber": "+61(0)3-5249-2800",
+    "address": "Pioneer Road and Princess Highway\nWaurn Ponds, VIC 3220"
+  },
+  {
+    "name": "Reading Cinemas West Lakes",
+    "lat": -34.8769092,
+    "lng": 138.4929903,
+    "address": "111 W. Lakes Boulevard\nWest Lakes, SA 5021"
+  },
+  {
+    "name": "Reading Dandenong",
+    "lat": -37.9871194,
+    "lng": 145.216341,
+    "phoneNumber": "+61(0)3-8762-4900",
+    "address": "Walker Street and McRea Street\nMelbourne, VIC 3175"
+  },
+  {
+    "name": "Reading Rhodes",
+    "lat": -33.832518,
+    "lng": 151.0858093,
+    "phoneNumber": "+61-02-9736-7900",
+    "address": "1 Rider Boulevard\nSydney, NSW 2138"
+  },
+  {
+    "name": "Reading Rouse Hill Cinemas",
+    "lat": -33.6904299,
+    "lng": 150.9223989,
+    "phoneNumber": "+61-02-9830-2800",
+    "address": "Rouse Hill Drive and Windsor Road\nSydney, NSW 2155"
+  },
+  {
+    "name": "Reading West Lakes 7",
+    "lat": -34.876877,
+    "lng": 138.4921375,
+    "phoneNumber": "+61-08-8159-0800",
+    "address": "111 West Lakes Boulevard\nAdelaide, SA 5021"
+  },
+  {
+    "name": "Reardon Theatre",
+    "lat": -38.383556,
+    "lng": 142.234646,
+    "address": "35-37 Bank Street\nPort Fairy, VIC 3284"
+  },
+  {
+    "name": "Redcliffe Picture Palace",
+    "lat": -27.228031,
+    "lng": 153.113922,
+    "phoneNumber": "+61-07-3889-3011",
+    "address": "151 Sutton Street\nRedcliffe, QLD 4020"
+  },
+  {
+    "name": "Regal Marrayatville",
+    "lat": -34.926354,
+    "lng": 138.651474,
+    "phoneNumber": "+61-(0)8-431-4838",
+    "address": "275 Kensington Road\nAdelaide, SA 5068"
+  },
+  {
+    "name": "Regal Theatre",
+    "lat": -31.946651,
+    "lng": 115.8238,
+    "phoneNumber": "+61-08-9388-2066",
+    "address": "474 Hay Street\nSubiaco, WA 6008"
+  },
+  {
+    "name": "Regal Twin Cinemas",
+    "lat": -27.5222215,
+    "lng": 152.9759497,
+    "phoneNumber": "+61-7-3379-1848",
+    "address": "381 Honor Avenue\nBrisbane, QLD 4075"
+  },
+  {
+    "name": "Regent Cinema",
+    "lat": -28.327328,
+    "lng": 153.3956591,
+    "phoneNumber": "+61-02-6672-8265",
+    "address": "5 Brisbane Street\nMurwillumbah, NSW 2484"
+  },
+  {
+    "name": "Regent Cinemas",
+    "lat": -37.5602553,
+    "lng": 143.8578093,
+    "phoneNumber": "+61-03-5330-5555",
+    "address": "49 Lydiard Street North\nBallarat, VIC 3350"
+  },
+  {
+    "name": "Regent Cinemas",
+    "lat": -36.081069,
+    "lng": 146.921182,
+    "phoneNumber": "+61-02-6021-3044",
+    "address": "456 Dean Street\nAlbury, NSW 2640"
+  },
+  {
+    "name": "Regent Theatre",
+    "lat": -38.339248,
+    "lng": 143.590667,
+    "address": "21 Murray Street\nColac, VIC 3250"
+  },
+  {
+    "name": "Regent Theatre",
+    "lat": -37.815387,
+    "lng": 144.967496,
+    "phoneNumber": "+61(0)3-9299-9500",
+    "address": "191 Collins Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Rex Theatre",
+    "lat": -36.268772,
+    "lng": 143.349015,
+    "phoneNumber": "+61-03-5491-1588",
+    "address": "30-34 High Street\nCharlton, VIC 3525"
+  },
+  {
+    "name": "Richmond Regent Twin Cinema",
+    "lat": -33.5979488,
+    "lng": 150.7535357,
+    "phoneNumber": "+61-0-2-4578-1800",
+    "address": "145 Windsor Street\nRichmond, NSW 2753"
+  },
+  {
+    "name": "Ritz Cinema",
+    "lat": -33.9202081,
+    "lng": 151.2433284,
+    "phoneNumber": "+61-02-9399-5722",
+    "address": "39-47 St. Pauls Street\nSydney, NSW 2031"
+  },
+  {
+    "name": "Riverside Theatre",
+    "lat": -31.9564125,
+    "lng": 115.8528021,
+    "address": "21 Mounts Bay Road\nPerth, WA 6000"
+  },
+  {
+    "name": "Rivoli Village Cinemas",
+    "lat": -37.8305037,
+    "lng": 145.0555772,
+    "phoneNumber": "+61-03-0055-5400",
+    "address": "200 Camberwell Road\nMelbourne, VIC 3123"
+  },
+  {
+    "name": "Rodeo Drive-In",
+    "lat": -17.0485704,
+    "lng": 145.4331086,
+    "phoneNumber": "+61-07-40921-666",
+    "address": "5303 Kennedy Highway\nMareeba, QLD 4880"
+  },
+  {
+    "name": "Rooftop Cinema",
+    "lat": -37.811992,
+    "lng": 144.965248,
+    "phoneNumber": "+61-3-9663-3596",
+    "address": "252 Swanston Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Rooftop Movies",
+    "lat": -31.948616,
+    "lng": 115.856997,
+    "address": "68 Roe Street\nNorthbridge, WA 6003"
+  },
+  {
+    "name": "Roseville Cinemas",
+    "lat": -33.7842294,
+    "lng": 151.1763583,
+    "phoneNumber": "+61-02-9416-8555",
+    "address": "112 Pacific Highway\nSydney, NSW 2069"
+  },
+  {
+    "name": "Rottnest Island Picture Hall",
+    "lat": -32.0003692,
+    "lng": 115.5420051,
+    "address": "Brand Way\nRottnest Island, WA 6161"
+  },
+  {
+    "name": "Roxby Link Cinema",
+    "lat": -30.5611567,
+    "lng": 136.8976263,
+    "address": "15/1 Richardson Place\nRoxby Downs, SA 5725"
+  },
+  {
+    "name": "Roxy Theatre",
+    "lat": -34.8757185,
+    "lng": 150.6002051,
+    "address": "41 Berry Street\nNowra, NSW 2541\nAustralia"
+  },
+  {
+    "name": "Roxy Theatre",
+    "lat": -34.552184,
+    "lng": 146.405195,
+    "phoneNumber": "+61-02-6953-2074",
+    "address": "114 - 118 Pine Avenue\nLeeton, NSW 2705"
+  },
+  {
+    "name": "Roxy Theatre",
+    "lat": -29.8692269,
+    "lng": 150.5709132,
+    "phoneNumber": "+61-0427-241-582",
+    "address": "74 Maitland Street\nBingara, NSW 2404"
+  },
+  {
+    "name": "Royal Outdoor Theatre",
+    "lat": -22.3901408,
+    "lng": 143.0382659,
+    "address": "Elderslie Street\nWinton, QLD 4735"
+  },
+  {
+    "name": "Royale Theatre",
+    "lat": -31.9469533,
+    "lng": 115.8573993,
+    "address": "12 Lake Street\nNorthbridge, WA 6003"
+  },
+  {
+    "name": "Saraton Theatre",
+    "lat": -29.6890837,
+    "lng": 152.9347884,
+    "phoneNumber": "+61.2.6642.2727",
+    "address": "95 Prince Street\nGrafton, NSW 2460"
+  },
+  {
+    "name": "Savoy Theatre",
+    "lat": -32.9223347,
+    "lng": 151.7143533,
+    "address": "18 Alma Road\nNew Lambton\nNewcastle, NSW 2305"
+  },
+  {
+    "name": "Scitech Planetarium Cinema",
+    "lat": -31.9454114,
+    "lng": 115.8474436,
+    "phoneNumber": "+61(0)8-9215-0700",
+    "address": "Railway Parade and Sutherland Street\nWest Perth, WA 6005"
+  },
+  {
+    "name": "Shire Hall",
+    "lat": -36.5897362,
+    "lng": 145.016719,
+    "address": "71 High Street\nRushworth, VIC 3612"
+  },
+  {
+    "name": "Shire Hall",
+    "lat": -36.012807,
+    "lng": 146.005027,
+    "address": "100 Belmore Street\nYarrawonga, VIC 3730"
+  },
+  {
+    "name": "Showbiz Cinemas - Ballarat",
+    "lat": -37.5904268,
+    "lng": 143.8056292,
+    "address": "315 Glenelg Highway\nBallarat, VIC 3351"
+  },
+  {
+    "name": "Showbiz Cinemas - Swan Hill",
+    "lat": -35.341466,
+    "lng": 143.558194,
+    "phoneNumber": "+61-03-5032-2825",
+    "address": "43 McCrae Street\nSwan Hill, VIC 3585"
+  },
+  {
+    "name": "Showbiz Cinemas Drive-In Ballarat",
+    "lat": -37.5425252,
+    "lng": 143.8499604,
+    "address": "Creswick Road and Howitt Street\nWendouree, VIC 3355"
+  },
+  {
+    "name": "Silver City Cinema",
+    "lat": -31.9564024,
+    "lng": 141.4669527,
+    "phoneNumber": "+61(0)8-8007-4569",
+    "address": "49 Oxide Street\nBroken Hill, NSW 2880"
+  },
+  {
+    "name": "Simulation Centre",
+    "lat": -32.0993716,
+    "lng": 115.8097102,
+    "address": "6 Sphinx Way\nBibra Lake, WA 6163"
+  },
+  {
+    "name": "Skyline Drive-In",
+    "lat": -33.8069414,
+    "lng": 150.9024587,
+    "phoneNumber": "+61(0)2-9622-4170",
+    "address": "Cricketers Arms Road\nSydney, NSW 2148"
+  },
+  {
+    "name": "Sommerville Auditorium",
+    "lat": -31.9560827,
+    "lng": 115.8570452,
+    "address": "Howard Street\nCrawley, WA 6009"
+  },
+  {
+    "name": "South Coast Cinema",
+    "lat": -37.1651436,
+    "lng": 139.7616697,
+    "phoneNumber": "+61-08-8735-8455",
+    "address": "37 Victoria Street\nRobe, SA 5276"
+  },
+  {
+    "name": "South Coast Cinema",
+    "lat": -37.4780041,
+    "lng": 140.0092007,
+    "phoneNumber": "+61-08-8735-8455",
+    "address": "Railway Terrace\nBeachport, SA 5280"
+  },
+  {
+    "name": "Southbank 5 Cinemas",
+    "lat": -27.4788416,
+    "lng": 153.0215449,
+    "phoneNumber": "+61-07-3846-5188",
+    "address": "167 Grey Street\nBrisbane, QLD 4101"
+  },
+  {
+    "name": "St. George Open Air Cinema",
+    "lat": -33.863796,
+    "lng": 151.2206726,
+    "address": "Mrs Macquaries Road\nSydney, NSW 2000"
+  },
+  {
+    "name": "Star 1 & 2 Theatre",
+    "lat": -34.9323075,
+    "lng": 138.5637957,
+    "address": "147 Donald Bradman Road\nAdelaide, SA 5033"
+  },
+  {
+    "name": "Star Cinema",
+    "lat": -14.464194,
+    "lng": 132.263381,
+    "address": "20 First Street\nKatherine, NT 0850"
+  },
+  {
+    "name": "Star Theatre",
+    "lat": -36.1502084,
+    "lng": 146.6095695,
+    "phoneNumber": "+61-03-5726-1395",
+    "address": "36 Main Street\nChiltern, VIC 3683"
+  },
+  {
+    "name": "Star Theatre",
+    "lat": -41.4184288,
+    "lng": 147.1341312,
+    "phoneNumber": "+61-(0)3-6333-1190",
+    "address": "217 Invermay Road\nInvermay, TAS 7248"
+  },
+  {
+    "name": "Star Theatre 1 & 2",
+    "lat": -34.9324974,
+    "lng": 138.5637152,
+    "address": "147 Sir Donald Bradman Drive\nHilton, SA 5033"
+  },
+  {
+    "name": "Stardust Drive-In",
+    "lat": -19.5944785,
+    "lng": 147.3994901,
+    "phoneNumber": "+61-7-4783-1606",
+    "address": "27 Kilrie Road\nAyr, QLD 4807"
+  },
+  {
+    "name": "Starlight Cinema",
+    "lat": -27.74665,
+    "lng": 140.737484,
+    "phoneNumber": "+61(0)8-8675-9901",
+    "address": "Lot 1 South Terrace\nInnamincka, SA 5731"
+  },
+  {
+    "name": "Starline Outdoor Cinema",
+    "lat": -37.8310258,
+    "lng": 140.7769405,
+    "address": "Railway Terrace\nMount Gambier, SA 5290"
+  },
+  {
+    "name": "State Cinema",
+    "lat": -42.872221,
+    "lng": 147.315021,
+    "phoneNumber": "+61-(0)3-6234-6318",
+    "address": "375 Elizabeth Street\nNorth Hobart\nHobart, TAS 7000"
+  },
+  {
+    "name": "State Library Theatre",
+    "lat": -31.94887,
+    "lng": 115.860588,
+    "address": "25 Francis Street\nNorthbridge, WA 6003"
+  },
+  {
+    "name": "State Theatre",
+    "lat": -33.870995,
+    "lng": 151.207377,
+    "phoneNumber": "+61-02-9373-6655",
+    "address": "49 Market Street\nSydney, NSW 2000"
+  },
+  {
+    "name": "Summer Swell Outdoor Cinema",
+    "lat": -35.5340965,
+    "lng": 138.6871521,
+    "address": "Horseshoe Bay\nPort Elliot, SA 5212"
+  },
+  {
+    "name": "Sun Cinemas",
+    "lat": -17.9561502,
+    "lng": 122.2397157,
+    "phoneNumber": "+61-(0)8-9192-3199",
+    "address": "Weld Street and Frederick Street\nBroome, WA 6725"
+  },
+  {
+    "name": "Sun Pictures",
+    "lat": -17.95346,
+    "lng": 122.24307,
+    "phoneNumber": "+61-08-9192-1077",
+    "address": "8 Carnarvon Street\nBroome, WA 6725"
+  },
+  {
+    "name": "Sun Theatre",
+    "lat": -37.815986,
+    "lng": 144.890629,
+    "phoneNumber": "+61-03-9362-0999",
+    "address": "8 Ballarat Street\nMelbourne, VIC 3013"
+  },
+  {
+    "name": "Sydney Opera House",
+    "lat": -33.8596728,
+    "lng": 151.2130964,
+    "phoneNumber": "+61-2-9250-7777",
+    "address": "2A Macquarie Street\nSydney, NSW 2000"
+  },
+  {
+    "name": "Terrace Cinema",
+    "lat": -31.932225,
+    "lng": 152.413996,
+    "phoneNumber": "+61-02-6553-1428",
+    "address": "1 Mill Street\nTinonee, NSW 2430"
+  },
+  {
+    "name": "Theatre Royal",
+    "lat": -37.066427,
+    "lng": 144.219763,
+    "phoneNumber": "+61-03.5472.1196",
+    "address": "28-30 Hargraves Street\nCastlemaine, VIC 3450"
+  },
+  {
+    "name": "Theatre Royal",
+    "lat": -42.8795794,
+    "lng": 147.3305008,
+    "phoneNumber": "+61(0)3-6233-2299",
+    "address": "29 Campbell Street\nHobart, TAS 7000"
+  },
+  {
+    "name": "Thebarton Theatre",
+    "lat": -34.923678,
+    "lng": 138.56899,
+    "phoneNumber": "+61-08-8443-5255",
+    "address": "112 Henley Beach Road\nAdelaide, SA 5031"
+  },
+  {
+    "name": "Thornbury Theatre",
+    "lat": -37.754848,
+    "lng": 145.001032,
+    "address": "853 High Street\nMelbourne, VIC 3071"
+  },
+  {
+    "name": "Tidal River Open Air Cinema",
+    "lat": -38.9706301,
+    "lng": 146.279172,
+    "phoneNumber": "+61-409-422-773",
+    "address": "1 Melbourne Road\nWilsons Promontory\nTidal River, VIC 3960"
+  },
+  {
+    "name": "Tivoli Cinema",
+    "lat": -33.9248062,
+    "lng": 147.2062859,
+    "phoneNumber": "+61-2-6972-0918",
+    "address": "16 Court Street\nWest Wyalong, NSW 2671"
+  },
+  {
+    "name": "Tivoli Drive-In",
+    "lat": -27.5703695,
+    "lng": 152.7840309,
+    "phoneNumber": "+61(0)488-848-654",
+    "address": "50 Coal Road\nChuwar, QLD 4306"
+  },
+  {
+    "name": "Tivoli Theatre",
+    "lat": -32.0112266,
+    "lng": 115.8513003,
+    "address": "Kintail Road and Canning Beach Road\nApplecross, WA 6153"
+  },
+  {
+    "name": "Town Hall",
+    "lat": -36.0923694,
+    "lng": 145.4436527,
+    "address": "Knox Street and McCaskill Street\nNumurkah, VIC 3636"
+  },
+  {
+    "name": "Town Hall Cinema",
+    "lat": -31.497071,
+    "lng": 145.836065,
+    "address": "5 Barton Street\nCobar, NSW 2835"
+  },
+  {
+    "name": "Town Hall Entertainment Centre",
+    "lat": -37.057314,
+    "lng": 142.779452,
+    "phoneNumber": "+61-03-5358-1059",
+    "address": "62 Main Street\nStawell, VIC 3380"
+  },
+  {
+    "name": "Town Hall Performing Arts Centre",
+    "lat": -37.2843776,
+    "lng": 142.937848,
+    "phoneNumber": "+61-03-5352-2181",
+    "address": "Barkly Street\nArarat, VIC 3377"
+  },
+  {
+    "name": "Treasury Theatre",
+    "lat": -37.8125201,
+    "lng": 144.9745043,
+    "phoneNumber": "+61(0)3-9651-1515",
+    "address": "1 MacArthur Street\nMelbourne, VIC 3002"
+  },
+  {
+    "name": "Tweed City 6",
+    "lat": -28.2005573,
+    "lng": 153.5439868,
+    "phoneNumber": "+61-07-5523-3321",
+    "address": "54 Minjungbal Drive\nTweed City, NSW 2486"
+  },
+  {
+    "name": "United Cinemas",
+    "lat": -32.285915,
+    "lng": 115.741346,
+    "phoneNumber": "+61-8-9527-8072",
+    "address": "14 Leghorn Street\nRockingham, WA 6168"
+  },
+  {
+    "name": "United Cinemas Avalon",
+    "lat": -33.6368075,
+    "lng": 151.3288715,
+    "phoneNumber": "+61-(0)2-9918-2789",
+    "address": "39 Old Barranjoey Road\nAvalon, NSW 2127"
+  },
+  {
+    "name": "United Cinemas Craigieburn Central",
+    "lat": -37.5926974,
+    "lng": 144.912747,
+    "phoneNumber": "+61-(0)3-8692-2530",
+    "address": "340 Craigieburn Road\nMelbourne, VIC 3064"
+  },
+  {
+    "name": "United Cinemas Edge Cinema",
+    "lat": -33.7088432,
+    "lng": 150.316259,
+    "phoneNumber": "+61-02-4782-8900",
+    "address": "223 Great Western Highway\nKatoomba, NSW 2780"
+  },
+  {
+    "name": "United Cinemas El Dorado",
+    "lat": -27.5030504,
+    "lng": 152.9749535,
+    "phoneNumber": "+61(0)7-3378-1566",
+    "address": "141 Coonan Street\nBrisbane, QLD 4068"
+  },
+  {
+    "name": "United Cinemas Narellan",
+    "lat": -34.0422378,
+    "lng": 150.7371179,
+    "phoneNumber": "+61-(0)2-4646-1656",
+    "address": "326 Camden Valley Way\nNarellan, NSW 2567"
+  },
+  {
+    "name": "United Cinemas Opera Quays",
+    "lat": -33.857306,
+    "lng": 151.2145823,
+    "phoneNumber": "+61-2-9247-3800",
+    "address": "9/2 E. Circular Quay\nSydney, NSW 2000"
+  },
+  {
+    "name": "United Cinemas Warriewood",
+    "lat": -33.6937947,
+    "lng": 151.3024417,
+    "phoneNumber": "+61-(0)2-9913-2800",
+    "address": "4 Vuko Place\nWarriewood, NSW 2102"
+  },
+  {
+    "name": "Upper Murray Pizza and Cinema",
+    "lat": -36.1966473,
+    "lng": 147.9033655,
+    "address": "71 Hansen Street\nCorryong, VIC 3707"
+  },
+  {
+    "name": "Verona Cinema",
+    "lat": -33.8825832,
+    "lng": 151.2198007,
+    "phoneNumber": "+61-02-9360-6099",
+    "address": "17 Oxford Street\nSydney, NSW 2021"
+  },
+  {
+    "name": "Victa Cinema",
+    "lat": -35.5542085,
+    "lng": 138.6229172,
+    "phoneNumber": "+61-08.8552.1325",
+    "address": "37-41 Ocean Street\nVictor Harbor, SA 5211"
+  },
+  {
+    "name": "Victoria Hall",
+    "lat": -32.053716,
+    "lng": 115.749933,
+    "address": "179 High Street\nFremantle, WA 6160"
+  },
+  {
+    "name": "Village Airport West",
+    "lat": -37.7148865,
+    "lng": 144.8887094,
+    "phoneNumber": "+61-1300-555-400",
+    "address": "8 Louis Street\nMelbourne, VIC 3042"
+  },
+  {
+    "name": "Village Cinemas",
+    "lat": -41.4386435,
+    "lng": 147.1365654,
+    "address": "163 Brisbane Street\nLaunceston, TAS 7250"
+  },
+  {
+    "name": "Village Cinemas",
+    "lat": -42.8859911,
+    "lng": 147.3239832,
+    "phoneNumber": "+61-1300-555-400",
+    "address": "181 Collins Street\nHobart, TAS 7000"
+  },
+  {
+    "name": "Village Cinemas M-City",
+    "lat": -37.9217315,
+    "lng": 145.1402881,
+    "address": "2107-2125 Dandenong Road \nClayton, VIC 3166"
+  },
+  {
+    "name": "Village Cinemas Sunshine",
+    "lat": -37.7803753,
+    "lng": 144.831481,
+    "phoneNumber": "+61-1300-555-400",
+    "address": "80 Harvester Road\nMelbourne, VIC 3020"
+  },
+  {
+    "name": "Village Crown Centre 14",
+    "lat": -37.823547,
+    "lng": 144.9599483,
+    "phoneNumber": "+61-1300-555-400",
+    "address": "8 Whiteman Street\nMelbourne, VIC 3006"
+  },
+  {
+    "name": "Village Doncaster",
+    "lat": -37.7856703,
+    "lng": 145.1259681,
+    "phoneNumber": "+61-1300-555-400",
+    "address": "619 Doncaster Road\nMelbourne, VIC 3108"
+  },
+  {
+    "name": "Village Geelong",
+    "lat": -38.1497774,
+    "lng": 144.3611168,
+    "phoneNumber": "+61-1300-555-400",
+    "address": "194 Ryrie Street\nGeelong, VIC 3220"
+  },
+  {
+    "name": "Village Jam Factory",
+    "lat": -37.842743,
+    "lng": 144.996205,
+    "phoneNumber": "+61-1300-555-400",
+    "address": "500 Chapel Street\nMelbourne, VIC 3141"
+  },
+  {
+    "name": "Village Roadshow Theatrette",
+    "lat": -37.8100565,
+    "lng": 144.9643151,
+    "address": "328 Swanston Street\nMelbourne, VIC 3000"
+  },
+  {
+    "name": "Village Southland",
+    "lat": -37.958783,
+    "lng": 145.053177,
+    "phoneNumber": "+61-1300-555-400",
+    "address": "1239 Napean Highway\nMelbourne, VIC 3192"
+  },
+  {
+    "name": "Village Triple Drive-In",
+    "lat": -37.724291,
+    "lng": 144.974846,
+    "phoneNumber": "+61-03-9354-8633",
+    "address": "155 Newlands Road\nMelbourne, VIC 3058"
+  },
+  {
+    "name": "Village Werribee 10 Cinemas",
+    "lat": -37.8776177,
+    "lng": 144.6827492,
+    "address": "Heaths Road & Derrimut Road\nWerribee, VIC 3030"
+  },
+  {
+    "name": "Violet Town Memorial Hall",
+    "lat": -36.6368907,
+    "lng": 145.7167784,
+    "address": "Cowslip Street\nViolet Town, VIC 3669"
+  },
+  {
+    "name": "WMA Theatre",
+    "lat": -34.844122,
+    "lng": 138.500909,
+    "address": "11 Nile Street\nAdelaide, SA 5015"
+  },
+  {
+    "name": "Wallis Mitcham Cinemas",
+    "lat": -34.975827,
+    "lng": 138.609725,
+    "phoneNumber": "+61-08-8305-4444",
+    "address": "119 Belair Road\nAdelaide, SA 5062"
+  },
+  {
+    "name": "Wallis Mt. Barker Cinemas",
+    "lat": -35.066908,
+    "lng": 138.857123,
+    "phoneNumber": "+61-08-8391-2777",
+    "address": "17 Adelaide Road\nMount Barker, SA 5251"
+  },
+  {
+    "name": "Warrina Cineplex Cinemas",
+    "lat": -19.2748526,
+    "lng": 146.7702151,
+    "phoneNumber": "+61(0)7-4725-7295",
+    "address": "164 Dalrymple Road\nCurrajong, QLD 4812"
+  },
+  {
+    "name": "Waverley Cinema",
+    "lat": -37.8904969,
+    "lng": 145.1448633,
+    "phoneNumber": "+61.3.9803.3671",
+    "address": "Blackburn Road and Pinewood Drive\nMelbourne, VIC 3149"
+  },
+  {
+    "name": "Westgarth Theatre",
+    "lat": -37.7802059,
+    "lng": 144.9968103,
+    "phoneNumber": "+61-03-9482-2001",
+    "address": "87-89 High Street\nMelbourne, VIC 3070"
+  },
+  {
+    "name": "Wharparilla West Community Hall Drive-In",
+    "lat": -36.1295064,
+    "lng": 144.638806,
+    "address": "795 Mount Terrick Road\nEchuca West, VIC 3564"
+  },
+  {
+    "name": "Wickham Picture Gardens",
+    "lat": -20.6777768,
+    "lng": 117.1321016,
+    "address": "Vipervu Road\nWickham, WA 6720"
+  },
+  {
+    "name": "Windsor Cinema",
+    "lat": -31.9794483,
+    "lng": 115.8022824,
+    "phoneNumber": "+61-08-9386-3554",
+    "address": "98 Stirling Highway\nNedlands, WA 6009"
+  },
+  {
+    "name": "Windsor Theatre",
+    "lat": -35.0176935,
+    "lng": 138.5193873,
+    "phoneNumber": "+61-08-8296-4888",
+    "address": "1 Commercial Road\nAdelaide, SA 5048"
+  },
+  {
+    "name": "Wirrarri Visitor Information Centre",
+    "lat": -25.8998396,
+    "lng": 139.3518486,
+    "phoneNumber": "+61-(0)7-4656-3300",
+    "address": "29 Burt Street\nBirdsville, QLD 4482"
+  },
+  {
+    "name": "Wongan Hills Community Telecentre ",
+    "lat": -30.8975499,
+    "lng": 116.7202601,
+    "address": "1 Wongan Road\nWongan Hills, WA 6603"
+  },
+  {
+    "name": "Woomera Theatre",
+    "lat": -31.1996409,
+    "lng": 136.8254909,
+    "phoneNumber": "+61-08-8674-3226",
+    "address": "Dewrang Avenue\nWoomera, SA 5720"
+  },
+  {
+    "name": "World Theatre",
+    "lat": -20.07641,
+    "lng": 146.2564791,
+    "address": "82-90 Mosman Park\nCharters Towers, QLD 4820"
+  },
+  {
+    "name": "Wundowie Oval ",
+    "lat": -31.7596684,
+    "lng": 116.3843426,
+    "address": "Boronia Avenue and Banksia Avenue\nWundowie, WA 6560"
+  },
+  {
+    "name": "Wyndham Picture Gardens",
+    "lat": -15.4840514,
+    "lng": 128.1219927,
+    "phoneNumber": "+61(0)4-3861-1264",
+    "address": "1 Civic Way\nWyndham, WA 6740"
+  },
+  {
+    "name": "Yalata Drive-In",
+    "lat": -27.7304907,
+    "lng": 153.237313,
+    "phoneNumber": "+61(0)7-3287-2930",
+    "address": "100 Jacobs Well Road\nStapylton, QLD 4207"
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Academy Cinemas",
+    "lat": -36.8513965,
+    "lng": 174.7652399,
+    "phoneNumber": "+64-09-373-2761",
+    "address": "44 Lorne Street\nAuckland 1010"
+  },
+  {
+    "name": "Ben & Jerry's Openair Cinema Auckland",
+    "lat": -36.8636534,
+    "lng": 174.7189729,
+    "address": "Motions Road\nAuckland 1022"
+  },
+  {
+    "name": "Century Cinema",
+    "lat": -39.488791,
+    "lng": 176.91902,
+    "phoneNumber": "+64-06-835-7781",
+    "address": "9 Herschell Street\nNapier 4110"
+  },
+  {
+    "name": "Cinema Paradiso",
+    "lat": -44.6972984,
+    "lng": 169.1356874,
+    "phoneNumber": "+64(0)3-443-1505",
+    "address": "72 Brownston Street\nWanaka 9434"
+  },
+  {
+    "name": "Civic Theatre",
+    "lat": -36.8511851,
+    "lng": 174.7642663,
+    "phoneNumber": "+6409-8176001",
+    "address": "267 Queen Street\nAuckland 1010"
+  },
+  {
+    "name": "Classic Comedy Club",
+    "lat": -36.853649,
+    "lng": 174.7630837,
+    "phoneNumber": "+64-93734321",
+    "address": "321 Queen Street\nAuckland 1010"
+  },
+  {
+    "name": "Crystal Palace Theatre",
+    "lat": -36.8857327,
+    "lng": 174.7610596,
+    "address": "537 Mount Eden Road\nMount Eden\nAuckland 1024"
+  },
+  {
+    "name": "De Luxe Theatre",
+    "lat": -38.0055039,
+    "lng": 177.2846776,
+    "address": "106 Church Street\nOpotiki "
+  },
+  {
+    "name": "Embassy Theatre",
+    "lat": -41.2943203,
+    "lng": 174.7840576,
+    "phoneNumber": "+64-4-384-7657",
+    "address": "10 Kent Terrace\nWellington 6011"
+  },
+  {
+    "name": "Empire Cinema & Eatery",
+    "lat": -41.3372595,
+    "lng": 174.7726088,
+    "phoneNumber": "+64(0)4-939-7557",
+    "address": "The Parade and Mersey Street\nIsland Bay\nWellington 6023"
+  },
+  {
+    "name": "Ethels Cinema, Café & Bar-Akaroa",
+    "lat": -43.8102348,
+    "lng": 172.963514,
+    "phoneNumber": "+64-3-304-7777",
+    "address": "4 Selwyn Avenue\nAkaroa 7520"
+  },
+  {
+    "name": "Event Cinemas Queen Street",
+    "lat": -36.8520535,
+    "lng": 174.7639833,
+    "phoneNumber": "+64-9-369-2400",
+    "address": "297 Queen Street\nAuckland 1010"
+  },
+  {
+    "name": "Event Cinemas Queensgate",
+    "lat": -41.2104073,
+    "lng": 174.9061899,
+    "phoneNumber": "+64-4-586-8757",
+    "address": "45 Knights Road\nWellington 5010"
+  },
+  {
+    "name": "Everybodys Theatre",
+    "lat": -39.454674,
+    "lng": 173.85918,
+    "phoneNumber": "+64-06-761-2855",
+    "address": "72 Tasman Street\nOpunake 4854"
+  },
+  {
+    "name": "Focal Point Cinema",
+    "lat": -40.2267241,
+    "lng": 175.5651217,
+    "phoneNumber": "+64-06-323-0218",
+    "address": "81 Manchester Street\nFeilding 4740"
+  },
+  {
+    "name": "Focal Point Cinema & Cafe",
+    "lat": -39.6424232,
+    "lng": 176.8439432,
+    "phoneNumber": "+64-(0)6-871-5418",
+    "address": "124 Heretaunga Street East\nHastings Central\nHastings 4122"
+  },
+  {
+    "name": "Focal Point Cinema & Café Levin",
+    "lat": -40.621743,
+    "lng": 175.2837657,
+    "phoneNumber": "+64-6-366-0330",
+    "address": "14-16 Salisbury Street\nLevin 5510"
+  },
+  {
+    "name": "Geraldine Cinema",
+    "lat": -44.0931266,
+    "lng": 171.2451927,
+    "phoneNumber": "+64-03-693-8118",
+    "address": "74 Talbot Street\nGeraldine "
+  },
+  {
+    "name": "Hollywood Cinema",
+    "lat": -43.5684115,
+    "lng": 172.7588046,
+    "phoneNumber": "+64.3.326.6102",
+    "address": "28 Marriner Street, Sumner\nChristchurch 8081"
+  },
+  {
+    "name": "Hoyts Berkeley Mission Bay",
+    "lat": -36.848314,
+    "lng": 174.8325148,
+    "address": "85 Tamaki Drive\nMission Bay\nAuckland 1071"
+  },
+  {
+    "name": "Hoyts Berkeley Takapuna",
+    "lat": -36.7866126,
+    "lng": 174.7720083,
+    "address": "32/34 Anzac Street\nTakapuna 0622"
+  },
+  {
+    "name": "Hoyts Botany Downs",
+    "lat": -36.9337603,
+    "lng": 174.912925,
+    "address": "588 Chapel Road\nEast Tamaki 2013"
+  },
+  {
+    "name": "Hoyts Hibiscus Coast",
+    "lat": -36.6282581,
+    "lng": 174.7367799,
+    "phoneNumber": "+64(0)508-446-987",
+    "address": "6 Link Crescent\nArkles Bay\nHibiscus Coast 0932"
+  },
+  {
+    "name": "Hoyts Northlands",
+    "lat": -43.4924361,
+    "lng": 172.6102518,
+    "address": "55 Main North Road\nPapanui\nChristchurch 8052"
+  },
+  {
+    "name": "Hoyts Riccarton",
+    "lat": -43.531898,
+    "lng": 172.6006057,
+    "address": "Dilworth Street and Rotherham Street\nRiccarton\nChristchurch 8041"
+  },
+  {
+    "name": "Hoyts Sylvia Park",
+    "lat": -36.9135005,
+    "lng": 174.8407995,
+    "address": "286 Mount Wellington Highway\nMount Wellington 1060"
+  },
+  {
+    "name": "Hoyts Te Awa",
+    "lat": -37.7471481,
+    "lng": 175.2311128,
+    "address": "Maahanga Drive\nTe Rapa\nHamilton 3200"
+  },
+  {
+    "name": "Hoyts Wairau Park",
+    "lat": -36.766272,
+    "lng": 174.7385194,
+    "address": "15 Link Drive\nWairau Valley 0627"
+  },
+  {
+    "name": "Isaac Theatre Royal",
+    "lat": -43.5297377,
+    "lng": 172.6381473,
+    "phoneNumber": "+64-3-366-6326",
+    "address": "145 Gloucester Street\nChristchurch 8011"
+  },
+  {
+    "name": "Kings Theatre",
+    "lat": -39.3385254,
+    "lng": 174.2847104,
+    "phoneNumber": "+64(0)6-765-8255",
+    "address": "220 Broadway\nStratford 4332"
+  },
+  {
+    "name": "Lido Cinema",
+    "lat": -36.8928633,
+    "lng": 174.7744468,
+    "address": "427 Manukau Road\nEpsom\nAuckland "
+  },
+  {
+    "name": "Mayfair Theatre",
+    "lat": -42.4078483,
+    "lng": 173.68502,
+    "address": "80 The Esplanade\nKaikoura 7300\nNew Zealand"
+  },
+  {
+    "name": "Metro By Hoyts Hamilton",
+    "lat": -37.7865397,
+    "lng": 175.2802734,
+    "address": "56 Ward Street\nHamilton 3204"
+  },
+  {
+    "name": "Municipal Theatre",
+    "lat": -40.2085089,
+    "lng": 176.1017303,
+    "address": "156 High Street\nDannevirke 4930"
+  },
+  {
+    "name": "NBS Theatre",
+    "lat": -41.7527338,
+    "lng": 171.5985538,
+    "phoneNumber": "+64(0)3-789-4219",
+    "address": "105 Palmerston Street\nWestport 7825"
+  },
+  {
+    "name": "Penthouse Cinema",
+    "lat": -41.3058581,
+    "lng": 174.7635849,
+    "phoneNumber": "+64-04-384-3157",
+    "address": "205 Ohiro Road\nBrooklyn\nWellington 6021"
+  },
+  {
+    "name": "Point Chevalier Theatre",
+    "lat": -36.8707407,
+    "lng": 174.7104791,
+    "address": "1218 Great North Road\nPort Chevalier 1022"
+  },
+  {
+    "name": "Reading Cinemas Courtenay",
+    "lat": -41.292826,
+    "lng": 174.779842,
+    "address": "100 Courtenay Place\nTe Aro\nWellington 6011"
+  },
+  {
+    "name": "Reading Cinemas Dunedin",
+    "lat": -45.8742062,
+    "lng": 170.5027188,
+    "address": "33 The Octagon\nDunedin 9016"
+  },
+  {
+    "name": "Reading Cinemas Invercargill",
+    "lat": -46.4122726,
+    "lng": 168.3476324,
+    "address": "29 Dee Street\nInvercargill 9810"
+  },
+  {
+    "name": "Reading Cinemas LynnMall",
+    "lat": -36.9077127,
+    "lng": 174.6852019,
+    "address": "3058 Great North Road\nNew Lynn 0600"
+  },
+  {
+    "name": "Reading Cinemas Napier",
+    "lat": -39.4935492,
+    "lng": 176.9138851,
+    "address": "154 Station Street\nNapier 4110"
+  },
+  {
+    "name": "Reading Cinemas Porirua",
+    "lat": -41.1374349,
+    "lng": 174.8399386,
+    "address": "2 Titahi Bay Road\nPorirua 5022"
+  },
+  {
+    "name": "Reading Cinemas Rotorua",
+    "lat": -38.138675,
+    "lng": 176.247869,
+    "address": "1281 Eruera Street\nRotorua 3010"
+  },
+  {
+    "name": "Reading Cinemas The Palms",
+    "lat": -43.508008,
+    "lng": 172.6629299,
+    "address": "Marshland Road and New Brighton Road\nShirley 8061"
+  },
+  {
+    "name": "Reading Queenstown",
+    "lat": -36.9226945,
+    "lng": 174.7668473,
+    "address": "11 The Mall\nQueenstown \nNew Zealand"
+  },
+  {
+    "name": "Regent 3 Cinemas",
+    "lat": -40.9512848,
+    "lng": 175.6589492,
+    "address": "230 Queen Street\nMasterton 5810"
+  },
+  {
+    "name": "Regent Cinema",
+    "lat": -37.253071,
+    "lng": 174.7308487,
+    "address": "Queen Street\nWaiuku 2123"
+  },
+  {
+    "name": "Regent Cinema",
+    "lat": -40.2092998,
+    "lng": 176.0984327,
+    "address": "84 High Street\nDannevirke 4930\nNew Zealand"
+  },
+  {
+    "name": "Regent Theatre",
+    "lat": -38.8834302,
+    "lng": 175.2619317,
+    "phoneNumber": "+64-07-8966827",
+    "address": "61 Hakiaha Street\nTaumarunui 3920"
+  },
+  {
+    "name": "Regent Theatre",
+    "lat": -38.009468,
+    "lng": 175.3230448,
+    "phoneNumber": "+64-7-871-6678",
+    "address": "235 Alexandra Street\nTe Awamutu 3800"
+  },
+  {
+    "name": "Regent Theatre",
+    "lat": -42.7178772,
+    "lng": 170.9627251,
+    "phoneNumber": "+64(0)3-755-8101",
+    "address": "23 Weld Street\nHokitika 7900"
+  },
+  {
+    "name": "Regent Theatre",
+    "lat": -40.4517606,
+    "lng": 175.8411916,
+    "phoneNumber": "+64-6-376-8607",
+    "address": "62 Main Street\nPahiatua 5470"
+  },
+  {
+    "name": "Regent Theatre",
+    "lat": -45.874473,
+    "lng": 170.5039984,
+    "phoneNumber": "+64-03-477-8597",
+    "address": "17 The Octagon\nDunedin "
+  },
+  {
+    "name": "Regent on Broadway",
+    "lat": -40.3539603,
+    "lng": 175.6126405,
+    "phoneNumber": "+64-06-350-2100",
+    "address": "63 Broadway Avenue\nPalmerston North 4410"
+  },
+  {
+    "name": "Rialto Cinemas",
+    "lat": -36.8686948,
+    "lng": 174.7779223,
+    "phoneNumber": "+64(0)9-369-2417",
+    "address": "169 Broadway\nNewmarket\nAuckland 1023"
+  },
+  {
+    "name": "Rialto Cinemas",
+    "lat": -45.8754453,
+    "lng": 170.5023711,
+    "phoneNumber": "+64-03-474-2200",
+    "address": "11 Moray Place\nDunedin 9016"
+  },
+  {
+    "name": "Roxburgh Cinema",
+    "lat": -45.5462476,
+    "lng": 169.3132958,
+    "address": "132 Scotland Street\nRoxburgh \nNew Zealand"
+  },
+  {
+    "name": "Roxy Cinema",
+    "lat": -41.3157455,
+    "lng": 174.8161784,
+    "phoneNumber": "+64-(0)4-388-5555",
+    "address": "5 Park Road\nMiramar\nWellington 6022"
+  },
+  {
+    "name": "Shoreline Cinema",
+    "lat": -40.8768572,
+    "lng": 175.0640511,
+    "phoneNumber": "+64-4-902-8070",
+    "address": "10 Mahara Place\nWaikanae 5036"
+  },
+  {
+    "name": "Silky Otter Cinemas Orakei",
+    "lat": -36.86334,
+    "lng": 174.8096341,
+    "phoneNumber": "+64-(0)9-523-0400",
+    "address": "228 Orakei Road\nAuckland 1071"
+  },
+  {
+    "name": "Silky Otter Cinemas Wigram",
+    "lat": -43.5530501,
+    "lng": 172.5564528,
+    "phoneNumber": "+64(0)3-740-7155",
+    "address": "90 The Runway\nChristchurch 8443"
+  },
+  {
+    "name": "St. James Theatre",
+    "lat": -46.1001651,
+    "lng": 168.9442571,
+    "phoneNumber": "+64-3-208-7396",
+    "address": "61 Irk Street\nEast Gore\nGore 9710"
+  },
+  {
+    "name": "St. James Theatre",
+    "lat": -41.2932436,
+    "lng": 174.7800729,
+    "phoneNumber": "+64-04-384-3840",
+    "address": "77 Courtney Place\nWellington 6141"
+  },
+  {
+    "name": "Tokoroa Cinema 3",
+    "lat": -38.216775,
+    "lng": 175.8704725,
+    "address": "34 Logan Street\nTokoroa \nNew Zealand"
+  },
+  {
+    "name": "United Cinemas Bayfair",
+    "lat": -37.67565159999999,
+    "lng": 176.2240858,
+    "address": "19 Girven Road\nTauranga 3116\nNew Zealand"
+  },
+  {
+    "name": "Victoria Cinema",
+    "lat": -37.7828284,
+    "lng": 175.2792706,
+    "address": "690-692 Victoria Street\nHamilton 3244\nNew Zealand"
+  },
+  {
+    "name": "Victoria Theatre",
+    "lat": -36.8291158,
+    "lng": 174.7981224,
+    "phoneNumber": "+64-9-446-0100",
+    "address": "48-56 Victoria Road\nDevonport 1309"
+  }
+]
