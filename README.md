@@ -80,21 +80,21 @@
 <br>In `MaplibreMap.jsx`, modify `line 39`.
 <br>In `LeafletMap.js`x, modify `line 31`.
 
-  <details style="padding-left: 2em">
-      <summary>Here is the fixed code</summary>
-
-  from 
-  ```jsx
-  enqueueSnackbar( "Unexpected error while attempting map navigation", { variant: "error" })
-  ```
-  to 
-  ```jsx
-  enqueueSnackbar(
-    "We are sorry, but map navigation is currently unavailable.",
-    { variant: "error" }
-  )
-  ```
-  </details>
+    <details style="padding-left: 2em">
+        <summary>Here is the fixed code</summary>
+  
+    from 
+    ```jsx
+    enqueueSnackbar( "Unexpected error while attempting map navigation", { variant: "error" })
+    ```
+    to 
+    ```jsx
+    enqueueSnackbar(
+      "We are sorry, but map navigation is currently unavailable.",
+      { variant: "error" }
+    )
+    ```
+    </details>
 <br>
 
 
